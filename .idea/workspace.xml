@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="ilk commit">
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C14_HomeWork6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C15_HomeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C16_HomeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C01_GeometricShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C02_IfElse_DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C03_NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C04_IfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C10_HomeWork2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C10_HomeWork2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HomeWork3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C10_HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C10_HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C11_HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sldghrmnn"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sldghrmnn&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sldghrmnn/EU_B19_javaProgramming_SG.git",
-    "accountId": "b9004a0c-3b7f-424e-8805-31948562451b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sldghrmnn/EU_B19_javaProgramming_SG.git&quot;,
+    &quot;accountId&quot;: &quot;b9004a0c-3b7f-424e-8805-31948562451b&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.idea/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day05_Variables_cont/C01_Variables.java" root0="SKIP_INSPECTION" />
@@ -86,6 +99,7 @@
     "Application.C02_ClassTask.executor": "Run",
     "Application.C02_DataTypesMiniMax.executor": "Run",
     "Application.C02_HomeWork.executor": "Run",
+    "Application.C02_IfElse_DayOfWeek.executor": "Run",
     "Application.C02_If_Cont.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
     "Application.C02_VeriablePractice.executor": "Run",
@@ -162,11 +176,17 @@
     "Application.C10_odev_uc.executor": "Run",
     "Application.C11_HomeWork3.executor": "Run",
     "Application.C11_odev_dort.executor": "Run",
+    "Application.C12_HomeWork4.executor": "Run",
     "Application.C12_PrecedenceOfLogicalOperators.executor": "Run",
     "Application.C12_odev_bes.executor": "Run",
+    "Application.C13_HomeWork5.executor": "Run",
     "Application.C13_LogicalORveANDOperator.executor": "Run",
+    "Application.C14_HomeWork6.executor": "Run",
+    "Application.C15_HomeWork7.executor": "Run",
+    "Application.C16_HomeWork8.executor": "Run",
     "Application.CC07_Example06.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Selda Gehrmann/IdeaProjects/EU_B19_javaProgramming_SG/src/Main.java",
@@ -176,39 +196,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C11_HomeWork3">
-    <configuration name="C06_IfElseTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C06_IfElseTernary" />
+  <component name="RunManager" selected="Application.C02_IfElse_DayOfWeek">
+    <configuration name="C02_IfElse_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14_Review.C02_IfElse_DayOfWeek" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C07_NestedTernary" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C09_HomeWork" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="PATTERN" value="day14_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,8 +223,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C11_HomeWork3" />
+    <configuration name="C11_HarfDonusturucu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C11_HarfDonusturucu" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C13_HomeWork5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C13_HomeWork5" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C16_HomeWork8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C16_HomeWork8" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
@@ -244,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C11_HomeWork3" />
+        <item itemvalue="Application.C02_IfElse_DayOfWeek" />
+        <item itemvalue="Application.C11_HarfDonusturucu" />
         <item itemvalue="Application.C10_HomeWork2" />
-        <item itemvalue="Application.C09_HomeWork" />
-        <item itemvalue="Application.C07_NestedTernary" />
-        <item itemvalue="Application.C06_IfElseTernary" />
+        <item itemvalue="Application.C16_HomeWork8" />
+        <item itemvalue="Application.C13_HomeWork5" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +281,15 @@
       <option name="presentableId" value="Default" />
       <updated>1735841326106</updated>
     </task>
+    <task id="LOCAL-00001" summary="ilk commit">
+      <option name="closed" value="true" />
+      <created>1737636870830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737636870830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +302,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ilk commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
