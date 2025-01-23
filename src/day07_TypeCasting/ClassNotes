@@ -1,0 +1,42 @@
+Day07
+13.01.2025 21:01 • Day07
+Neler Öğrendik
+
+1. main() --- main methodu
+2. print() ve println()
+3. escape chars
+4. primitive variables & String variable
+5. Concatenation
+6. Arithmetic Operators
+7. Casting (implicit-Automatic-Widening, explicit-manual- narrowing)
+8. Scanner class
+
+
+Arithmetic Operators
++ - * \ %
+() işlem önceliği
+
+
+Casting
+implicit -- casting smaller type to larger
+explicit -- casting the larger type to smaller ( veri kaybı)
+
+
+Scanner
+
+1. adim Scanner Classindan bir object nesne olusturuyoruz
+Scanner scan/input/scanner/ = new Scanner(System.in);
+
+2. use scanner methods to get input from user
+nextInt()
+nextDouble()
+nextBoolean()
+nextLine() - entera kadar
+if we are using nextLine() method after a scanner methods (nextInt , NextDouble ...)
+We must use an extra nextLine()
+
+3. close scanner
+scan.close();
+-------------------------------------------------------------
+
+

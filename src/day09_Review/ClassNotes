@@ -1,0 +1,84 @@
+ Day9
+
+Operators
+
+Arithmetic Operators (+ - * / %)    % mod bölumden kalani veriyor!
+Unary Operators (+,-,++,--)         ++  -- sayinin onune gelirse islemden once 1 arttiriyor/sonuna gelirse islem sonu
+                                           atamadan sonra 1 ekler yada cikarir
+
+int num= +34;
+int num2= -34;
+
+-----------------------------------------------------------
+ShortHandOperator(=, +=, -=, *=, /=, %=)
+Relational Operators(> , < , >=, <=, ==, !=)      iliskisel operatorler - bir sayinin bir sayiyla ilskisi
+5!=4; ---- > TRUE
+  >   <    buyuk kucuk
+  >=  <=   esit ise
+    ==     esit
+    !=     esit degil (degil)
+int num=5;
+num+=2; ----> num= num+2; yeni num değeri olarak atar
+
+
+Unary Operators
+          ++ ; increase the value by 1;     1 ekler
+          -- ; decrease the value by 1.     1 eksiltir
+
+          POST vs PRE
+
+          oncesinde        PRE : changes the value immediately
+                      ++a;         sayiya aninda 1 ekler
+                      --a;         sayidan aninda 1 eksiltir
+
+          sonrasinda        POST : changes the value second step
+                       a++;        atamadan sonra 1 ekler
+                       a--;        aramadan sonra 1 eksiltir
+
+
+Assignment Operators ShortHand Operator
+x=x+y;                     x+=y;
+x=x-y                      x-=y
+x=x*y                      x*=y
+x=x/y                      x/=y
+x=x%y                      x%=y
+x=y                        x=y
+
+-----------------------------------------------------------
+
+Scanner scan = new Scanner(System.in);   / eger konsoldan bir data almak istiyorsak scanner vasitasyla bir obje olusturup
+                                         ve bu obje ile artik o uygun datayi kullanarak istedigimiz formatta bir data
+                                         alabiliyorduk!
+
+            input.nextLine();          // Java da scanner clasında nextInt(), nextDouble, next() kullandıktan sonra,etc
+                                       // nextLine() kullanıyorsan fazladan bir tane daha nextLine() kullanman gerekir
+
+
+scan.next(); --> ilk boşluğa kadar
+scan.nextLine(); --> ilk enter a kadar alır
+
+-------------------------------------------------------------
+
+&& and ve
+   both
+   in logical operator, both expression should be true -- iki ifade de dogru olmali ,degilse yanlis
+   true && true----true   5>3 && 6>9
+   true && false---false
+   false && true---false
+   false && false---false
+
+  || OR veya
+  either
+  only one expression needs to be true to return true --- bir tanesinin true olmasi yetiyor dogru
+      true || true----true
+      true || false---true
+     false || true----true
+     false || false---false
+
+  ^ : x-OR farkli ise- iki tarafsa ayni ise yalnis ,biri dogru biri yalnis ise farkli yani o yana dogru
+  return s true if both side are not same  -------  farkliysa dogru
+      false ^ false ---false
+      false ^ true ----true
+       true ^ false ----true
+       true ^ true  ---false
+

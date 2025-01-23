@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sldghrmnn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sldghrmnn/EU_B19_javaProgramming_SG.git",
+    "accountId": "b9004a0c-3b7f-424e-8805-31948562451b"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.idea/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day05_Variables_cont/C01_Variables.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day05_Variables_cont/C05_VeriableTypes.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day05_Variables_cont/C06_Cube.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day05_Variables_cont/C07_String.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day06_Arithmetic_UnaryOperators/C05_ShortHandOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day06_Arithmetic_UnaryOperators/C07_ClassTask3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day07_TypeCasting/C01_VariableNames.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day07_TypeCasting/C02_WideningCasting.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day07_TypeCasting/C03_NarrowingCasting.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day07_TypeCasting/C07_ScannerTask2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C01_WideningCasting.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C02_NarrowingCasting.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C03_AssignmentOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C05_SwappingTwoNumbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C06_SayiTerstenOlusturma.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C07_RelationalOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C08_LogicalAND.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C09_LogicalOR.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C10_LogicalNOT.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C12_PrecedenceOfLogicalOperators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C13_LogicalORveANDOperator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C04_Variables.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C06_LogicalOperatorsExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day09_Review/C07_Odev.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C01_If_Intro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day11_If_Elself_NestedIf/C04_Calculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day11_If_Elself_NestedIf/C05_NestedIf_ClassTask.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C07_NestedTernary.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/c08_SwitchCaseToTernary.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2r5G3aHkRDDD0YtZeaHD8q0uxYn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.C01_ArithmeticOperators.executor": "Run",
+    "Application.C01_ArtikYil.executor": "Run",
+    "Application.C01_Comments.executor": "Run",
+    "Application.C01_FirstMain.executor": "Run",
+    "Application.C01_MyFirstProgram.executor": "Run",
+    "Application.C01_PrimitiveDataTypes.executor": "Run",
+    "Application.C01_Variables.executor": "Run",
+    "Application.C02_ClassTask.executor": "Run",
+    "Application.C02_DataTypesMiniMax.executor": "Run",
+    "Application.C02_HomeWork.executor": "Run",
+    "Application.C02_If_Cont.executor": "Run",
+    "Application.C02_PrintVsPrintln.executor": "Run",
+    "Application.C02_VeriablePractice.executor": "Run",
+    "Application.C02_WideningCasting.executor": "Run",
+    "Application.C03_AssignmentOperators.executor": "Run",
+    "Application.C03_ClassTask2.executor": "Run",
+    "Application.C03_ErrVSOut.executor": "Run",
+    "Application.C03_EscapeChars.executor": "Run",
+    "Application.C03_Example02.executor": "Run",
+    "Application.C03_If_Example.executor": "Run",
+    "Application.C03_NarrowingCasting.executor": "Run",
+    "Application.C03_StringConcatenation.executor": "Run",
+    "Application.C03_SwitchWeekDays.executor": "Run",
+    "Application.C03_TernaryOperator.executor": "Run",
+    "Application.C04_BasamaklaraAyirma.executor": "Run",
+    "Application.C04_Calculator.executor": "Run",
+    "Application.C04_ClassTask.executor": "Run",
+    "Application.C04_ConcatenationTask.executor": "Run",
+    "Application.C04_Example03.executor": "Run",
+    "Application.C04_Rectangle.executor": "Run",
+    "Application.C04_Scanner.executor": "Run",
+    "Application.C04_TernaryExample1.executor": "Run",
+    "Application.C04_UnaryOperators.executor": "Run",
+    "Application.C04_UnaryOpertators.executor": "Run",
+    "Application.C04_Variables.executor": "Run",
+    "Application.C05_Circle.executor": "Run",
+    "Application.C05_ClassTask2.executor": "Run",
+    "Application.C05_EscapeCharacters.executor": "Run",
+    "Application.C05_EvenlyDivisible.executor": "Run",
+    "Application.C05_Example04.executor": "Run",
+    "Application.C05_NestedIf_ClassTask.executor": "Run",
+    "Application.C05_ScannerTask.executor": "Run",
+    "Application.C05_ShortHandOperators.executor": "Run",
+    "Application.C05_SwappingTwoNumbers.executor": "Run",
+    "Application.C05_VeriableTypes.executor": "Run",
+    "Application.C06_Cube.executor": "Run",
+    "Application.C06_Example05.executor": "Run",
+    "Application.C06_HaftaninGünleri.executor": "Run",
+    "Application.C06_IfElseTernary.executor": "Run",
+    "Application.C06_If_ElseIf.executor": "Run",
+    "Application.C06_LogicalOperatorsExample.executor": "Run",
+    "Application.C06_SayiTerstenOlusturma.executor": "Debug",
+    "Application.C06_SayininRakamlariToplami.executor": "Run",
+    "Application.C06_ScannerTaskCont.executor": "Run",
+    "Application.C06_Triangle.executor": "Run",
+    "Application.C06_odev.executor": "Run",
+    "Application.C07_CheckNumbers.executor": "Run",
+    "Application.C07_ClassTask3.executor": "Run",
+    "Application.C07_DataTypesHomework.executor": "Run",
+    "Application.C07_HomeWork.executor": "Run",
+    "Application.C07_NestedTernary.executor": "Run",
+    "Application.C07_Odev.executor": "Run",
+    "Application.C07_RelationalOperators.executor": "Run",
+    "Application.C07_ScannerTask2.executor": "Run",
+    "Application.C07_String.executor": "Run",
+    "Application.C07_Triangle.executor": "Run",
+    "Application.C07_odevTekrari.executor": "Run",
+    "Application.C07_taslakOdev.executor": "Run",
+    "Application.C08_EgualNumbers.executor": "Run",
+    "Application.C08_Example07.executor": "Run",
+    "Application.C08_FlightTicket.executor": "Run",
+    "Application.C08_HomeWorkdevam.executor": "Run",
+    "Application.C08_LogicalAND.executor": "Run",
+    "Application.C08_Rectangle.executor": "Run",
+    "Application.C08_dersNotlari.executor": "Run",
+    "Application.C08_odev_ilk.executor": "Run",
+    "Application.C09_HomeWork.executor": "Run",
+    "Application.C09_LogicalOR.executor": "Run",
+    "Application.C09_PhoneNumber.executor": "Run",
+    "Application.C09_odev_iki.executor": "Run",
+    "Application.C10_BirthDay.executor": "Run",
+    "Application.C10_HomeWork2.executor": "Run",
+    "Application.C10_Rectangle.executor": "Run",
+    "Application.C10_odev_uc.executor": "Run",
+    "Application.C11_HomeWork3.executor": "Run",
+    "Application.C11_odev_dort.executor": "Run",
+    "Application.C12_PrecedenceOfLogicalOperators.executor": "Run",
+    "Application.C12_odev_bes.executor": "Run",
+    "Application.C13_LogicalORveANDOperator.executor": "Run",
+    "Application.CC07_Example06.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Selda Gehrmann/IdeaProjects/EU_B19_javaProgramming_SG/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.C11_HomeWork3">
+    <configuration name="C06_IfElseTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C06_IfElseTernary" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C07_NestedTernary" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C09_HomeWork" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C10_HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C10_HomeWork2" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C11_HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C11_HomeWork3" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C11_HomeWork3" />
+        <item itemvalue="Application.C10_HomeWork2" />
+        <item itemvalue="Application.C09_HomeWork" />
+        <item itemvalue="Application.C07_NestedTernary" />
+        <item itemvalue="Application.C06_IfElseTernary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="" />
+      <created>1735841326106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735841326106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C06_SayiTerstenOlusturma.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

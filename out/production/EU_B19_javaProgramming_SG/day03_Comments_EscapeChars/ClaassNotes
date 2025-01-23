@@ -1,0 +1,73 @@
+ day03
+files & their extensions
+
+text file              .txt
+PDF files              .pdf
+Picture                .jpg , .png , .gif, .tiff etc
+word document          .doc
+excel files            .xlsx
+power point            .ppt
+java files             .java --- (source code)
+java file              .class --- (Byte code)
+
+
+        how to open preference window
+        windows :
+              files -> settings
+
+        Mac :
+              İntelliJ IDEA -> preferences
+
+
+     How to rename?
+          right click ->refactor --> rename
+
+     How to create project?
+          file -> new --> project
+
+     package :    used for storing java files in an organized manner
+     right click -->       new > package
+
+     package names starts with lower_case_letter  (kücük harfler)
+
+
+    Java File:
+
+         right click -- > new --> Java Class
+
+         class name -->   starts with UpperCaseLetter
+
+          CamelCase
+
+
+    Screenshot   =      PRTSC Win+Shift+S
+  -------------------------------------------------------------------------
+
+
+System.out.println("Merhaba \\ Dünya");
+
+/*
+\n --> Yeni satır-- new line
+\t ---> bir tab boşluk bırakır
+\b --> Backspace-- son harf yda rakami siler
+\" --> "
+\r ---> satır başı-- bundan sonra geleni satir basi kabul eder ve yazar
+\\ --> \
+
+*/
+
+
+System.out.println("One\tTwo\tThree");
+System.out.println("One\bTwo\bThree");
+System.out.println("One\nTwo\nThree");
+
+System.out.println("---------------");
+System.out.println("One Two\rThree");
+
+System.out.println("-------------------");
+
+System.out.println("\"One\" \"Two\" \"Three\"");
+System.out.println("One \\Two\\ Three");
+
+------------------------------------------------
+  // ctr+a+/  ---> tüm secili alani yoruma atar!!!!! /*  */ yani
