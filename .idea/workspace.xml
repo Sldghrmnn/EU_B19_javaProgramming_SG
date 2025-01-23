@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="ilk commit">
-      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C14_HomeWork6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C15_HomeWork7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13_Ternary/C16_HomeWork8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C01_GeometricShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C02_IfElse_DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C03_NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C04_IfExample.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="bugunki commit">
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C07_SwitchBeden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_Review/C08_IfBeden.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C10_HomeWork2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C10_HomeWork2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HomeWork3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C10_HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C10_HomeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C11_HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HarfDonusturucu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HarfDonusturucu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day14_Review/C02_IfElse_DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day14_Review/C02_IfElse_DayOfWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_Review/c05_IfExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14_Review/c05_IfExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +157,7 @@
     "Application.C08_Example07.executor": "Run",
     "Application.C08_FlightTicket.executor": "Run",
     "Application.C08_HomeWorkdevam.executor": "Run",
+    "Application.C08_IfBeden.executor": "Run",
     "Application.C08_LogicalAND.executor": "Run",
     "Application.C08_Rectangle.executor": "Run",
     "Application.C08_dersNotlari.executor": "Run",
@@ -174,6 +170,7 @@
     "Application.C10_HomeWork2.executor": "Run",
     "Application.C10_Rectangle.executor": "Run",
     "Application.C10_odev_uc.executor": "Run",
+    "Application.C11_HarfDonusturucu.executor": "Run",
     "Application.C11_HomeWork3.executor": "Run",
     "Application.C11_odev_dort.executor": "Run",
     "Application.C12_HomeWork4.executor": "Run",
@@ -185,6 +182,7 @@
     "Application.C15_HomeWork7.executor": "Run",
     "Application.C16_HomeWork8.executor": "Run",
     "Application.CC07_Example06.executor": "Run",
+    "Application.c05_IfExample2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -196,9 +194,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C02_IfElse_DayOfWeek">
+  <component name="RunManager" selected="Application.C08_IfBeden">
     <configuration name="C02_IfElse_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day14_Review.C02_IfElse_DayOfWeek" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_Review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_IfBeden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14_Review.C08_IfBeden" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
@@ -236,25 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_HomeWork5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C13_HomeWork5" />
+    <configuration name="c05_IfExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14_Review.c05_IfExample2" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C16_HomeWork8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C16_HomeWork8" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="PATTERN" value="day14_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_IfElse_DayOfWeek" />
+        <item itemvalue="Application.C08_IfBeden" />
         <item itemvalue="Application.C11_HarfDonusturucu" />
+        <item itemvalue="Application.c05_IfExample2" />
+        <item itemvalue="Application.C02_IfElse_DayOfWeek" />
         <item itemvalue="Application.C10_HomeWork2" />
-        <item itemvalue="Application.C16_HomeWork8" />
-        <item itemvalue="Application.C13_HomeWork5" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +287,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737636870830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bugunki commit">
+      <option name="closed" value="true" />
+      <created>1737656344060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737656344060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bugunki commit">
+      <option name="closed" value="true" />
+      <created>1737656445840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737656445840</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +319,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="ilk commit" />
+    <MESSAGE value="bugunki commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugunki commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

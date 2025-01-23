@@ -14,21 +14,18 @@ public class C11_HarfDonusturucu {
         char karakter = input.charAt(0);
 
         if (input.length() != 1){
-
+            System.out.println("Lutfen bir karakter giiriniz : ");
+        }else {
+            String kucukHarf = input.toLowerCase();
+            String buyukHarf = input.toUpperCase();
+            if (input.equals(kucukHarf) && !input.equals(buyukHarf)){
+                System.out.println("Donusturulmus harf : " +buyukHarf);
+            }else{
+                System.out.println("Girilen harf : " +input);
+            }
         }
 
 
 
     }
 }
-/*
-int level =1;
-String levelStr;
-
-      switch (level){
-        case 1 ->  levelStr= "A";
-        case 2 ->  levelStr= "B";
-        case 3 ->  levelStr= "C";
-default -> levelStr= "E";
-        };
-*/
