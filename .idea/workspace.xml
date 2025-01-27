@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit of day14">
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit of day15">
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C01_ForLoop_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C02_ForLoop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C03_ForLoop_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C04_KalansizBolunenler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C05_TekCiftTopla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C06_Faktoriyel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C07_ForLoop_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C08_DinamikLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_ForLoops/C09_SayiBasamakDegeriTToplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C02_SwitchIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C02_SwitchIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C03_SwitchWeekDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C03_SwitchWeekDays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C04_AdvancedSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C04_AdvancedSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C05_SwitchCaseExamplee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C05_SwitchCaseExamplee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C06_Caalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C07_SwitchCaseBankMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C07_SwitchCaseBankMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C02_SwitchIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C02_SwitchIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C03_SwitchWeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C03_SwitchWeekDays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvancedSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvancedSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C05_SwitchCaseExamplee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C05_SwitchCaseExamplee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C06_Caalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C06_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C07_SwitchCaseBankMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C07_SwitchCaseBankMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C03_TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C03_TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C04_BasamaklaraAyirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C04_BasamaklaraAyirma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +103,7 @@
     "Application.C02_HomeWork.executor": "Run",
     "Application.C02_IfElse_DayOfWeek.executor": "Run",
     "Application.C02_If_Cont.executor": "Run",
+    "Application.C02_Loop1.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
     "Application.C02_SwitchIntro.executor": "Run",
     "Application.C02_VeriablePractice.executor": "Run",
@@ -115,6 +113,7 @@
     "Application.C03_ErrVSOut.executor": "Run",
     "Application.C03_EscapeChars.executor": "Run",
     "Application.C03_Example02.executor": "Run",
+    "Application.C03_ForLoop_3.executor": "Run",
     "Application.C03_If_Example.executor": "Run",
     "Application.C03_NarrowingCasting.executor": "Run",
     "Application.C03_StringConcatenation.executor": "Run",
@@ -125,6 +124,7 @@
     "Application.C04_ClassTask.executor": "Run",
     "Application.C04_ConcatenationTask.executor": "Run",
     "Application.C04_Example03.executor": "Run",
+    "Application.C04_KalansizBolunenler.executor": "Run",
     "Application.C04_Rectangle.executor": "Run",
     "Application.C04_Scanner.executor": "Run",
     "Application.C04_TernaryExample1.executor": "Run",
@@ -141,9 +141,11 @@
     "Application.C05_ShortHandOperators.executor": "Run",
     "Application.C05_SwappingTwoNumbers.executor": "Run",
     "Application.C05_SwitchCaseExamplee.executor": "Run",
+    "Application.C05_TekCiftTopla.executor": "Run",
     "Application.C05_VeriableTypes.executor": "Run",
     "Application.C06_Cube.executor": "Run",
     "Application.C06_Example05.executor": "Run",
+    "Application.C06_Faktoriyel.executor": "Run",
     "Application.C06_HaftaninGünleri.executor": "Run",
     "Application.C06_IfElseTernary.executor": "Run",
     "Application.C06_If_ElseIf.executor": "Run",
@@ -156,6 +158,7 @@
     "Application.C07_CheckNumbers.executor": "Run",
     "Application.C07_ClassTask3.executor": "Run",
     "Application.C07_DataTypesHomework.executor": "Run",
+    "Application.C07_ForLoop_4.executor": "Run",
     "Application.C07_HomeWork.executor": "Run",
     "Application.C07_NestedTernary.executor": "Run",
     "Application.C07_Odev.executor": "Run",
@@ -166,6 +169,7 @@
     "Application.C07_Triangle.executor": "Run",
     "Application.C07_odevTekrari.executor": "Run",
     "Application.C07_taslakOdev.executor": "Run",
+    "Application.C08_DinamikLoop.executor": "Run",
     "Application.C08_EgualNumbers.executor": "Run",
     "Application.C08_Example07.executor": "Run",
     "Application.C08_FlightTicket.executor": "Run",
@@ -178,6 +182,7 @@
     "Application.C09_HomeWork.executor": "Run",
     "Application.C09_LogicalOR.executor": "Run",
     "Application.C09_PhoneNumber.executor": "Run",
+    "Application.C09_SayiBasamakDegeriTToplama.executor": "Run",
     "Application.C09_odev_iki.executor": "Run",
     "Application.C10_BirthDay.executor": "Run",
     "Application.C10_HomeWork2.executor": "Run",
@@ -207,13 +212,13 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C07_SwitchCaseBankMenu">
-    <configuration name="C02_SwitchIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C02_SwitchIntro" />
+  <component name="RunManager" selected="Application.C09_SayiBasamakDegeriTToplama">
+    <configuration name="C05_TekCiftTopla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C05_TekCiftTopla" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day15_ForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_SwitchCaseExamplee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C05_SwitchCaseExamplee" />
+    <configuration name="C06_Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C06_Faktoriyel" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day15_ForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_SwitchCaseBankMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C07_SwitchCaseBankMenu" />
+    <configuration name="C07_ForLoop_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C07_ForLoop_4" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="PATTERN" value="day15_ForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_IfBeden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_Review.C08_IfBeden" />
+    <configuration name="C08_DinamikLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C08_DinamikLoop" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_Review.*" />
+          <option name="PATTERN" value="day15_ForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_HarfDonusturucu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C11_HarfDonusturucu" />
+    <configuration name="C09_SayiBasamakDegeriTToplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_ForLoops.C09_SayiBasamakDegeriTToplama" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
+          <option name="PATTERN" value="day15_ForLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_SwitchCaseBankMenu" />
-        <item itemvalue="Application.C05_SwitchCaseExamplee" />
-        <item itemvalue="Application.C02_SwitchIntro" />
-        <item itemvalue="Application.C08_IfBeden" />
-        <item itemvalue="Application.C11_HarfDonusturucu" />
+        <item itemvalue="Application.C09_SayiBasamakDegeriTToplama" />
+        <item itemvalue="Application.C08_DinamikLoop" />
+        <item itemvalue="Application.C07_ForLoop_4" />
+        <item itemvalue="Application.C06_Faktoriyel" />
+        <item itemvalue="Application.C05_TekCiftTopla" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737664539629</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit of day15">
+      <option name="closed" value="true" />
+      <created>1737997744331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737997744331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +355,8 @@
     <MESSAGE value="ilk commit" />
     <MESSAGE value="bugunki commit" />
     <MESSAGE value="commit of day14" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit of day14" />
+    <MESSAGE value="commit of day15" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit of day15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
