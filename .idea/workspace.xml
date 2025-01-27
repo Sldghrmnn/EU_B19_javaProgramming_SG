@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="bugunki commit">
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C07_SwitchBeden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14_Review/C08_IfBeden.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit of day14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HarfDonusturucu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C11_HarfDonusturucu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day14_Review/C02_IfElse_DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day14_Review/C02_IfElse_DayOfWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C11_HarfDonusturucu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14_Review/c05_IfExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day14_Review/c05_IfExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C02_SwitchIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C02_SwitchIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C03_SwitchWeekDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C03_SwitchWeekDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C04_AdvancedSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C04_AdvancedSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C05_SwitchCaseExamplee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C05_SwitchCaseExamplee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C06_Caalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C07_SwitchCaseBankMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day12_Switch_Case/C07_SwitchCaseBankMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C02_SwitchIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C02_SwitchIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C03_SwitchWeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C03_SwitchWeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvancedSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C04_AdvancedSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C05_SwitchCaseExamplee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C05_SwitchCaseExamplee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C06_Caalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C06_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_Switch_Case/C07_SwitchCaseBankMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_Switch_Case/C07_SwitchCaseBankMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +77,9 @@
     <setting file="file://$PROJECT_DIR$/src/day10_IfStatements/C01_If_Intro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day11_If_Elself_NestedIf/C04_Calculator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day11_If_Elself_NestedIf/C05_NestedIf_ClassTask.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day12_Switch_Case/C05_SwitchCaseExamplee.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C02_AdvancedSwitchCase.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C03_TernaryOperator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day13_Ternary/C07_NestedTernary.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day13_Ternary/c08_SwitchCaseToTernary.java" root0="SKIP_INSPECTION" />
   </component>
@@ -97,6 +107,7 @@
     "Application.C02_IfElse_DayOfWeek.executor": "Run",
     "Application.C02_If_Cont.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
+    "Application.C02_SwitchIntro.executor": "Run",
     "Application.C02_VeriablePractice.executor": "Run",
     "Application.C02_WideningCasting.executor": "Run",
     "Application.C03_AssignmentOperators.executor": "Run",
@@ -129,6 +140,7 @@
     "Application.C05_ScannerTask.executor": "Run",
     "Application.C05_ShortHandOperators.executor": "Run",
     "Application.C05_SwappingTwoNumbers.executor": "Run",
+    "Application.C05_SwitchCaseExamplee.executor": "Run",
     "Application.C05_VeriableTypes.executor": "Run",
     "Application.C06_Cube.executor": "Run",
     "Application.C06_Example05.executor": "Run",
@@ -150,6 +162,7 @@
     "Application.C07_RelationalOperators.executor": "Run",
     "Application.C07_ScannerTask2.executor": "Run",
     "Application.C07_String.executor": "Run",
+    "Application.C07_SwitchCaseBankMenu.executor": "Run",
     "Application.C07_Triangle.executor": "Run",
     "Application.C07_odevTekrari.executor": "Run",
     "Application.C07_taslakOdev.executor": "Run",
@@ -191,16 +204,42 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C08_IfBeden">
-    <configuration name="C02_IfElse_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_Review.C02_IfElse_DayOfWeek" />
+  <component name="RunManager" selected="Application.C07_SwitchCaseBankMenu">
+    <configuration name="C02_SwitchIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C02_SwitchIntro" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_Review.*" />
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_SwitchCaseExamplee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C05_SwitchCaseExamplee" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SwitchCaseBankMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_Switch_Case.C07_SwitchCaseBankMenu" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_Switch_Case.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,19 +260,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_Ternary.C10_HomeWork2" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_Ternary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C11_HarfDonusturucu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13_Ternary.C11_HarfDonusturucu" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -247,26 +273,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c05_IfExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_Review.c05_IfExample2" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C07_SwitchCaseBankMenu" />
+        <item itemvalue="Application.C05_SwitchCaseExamplee" />
+        <item itemvalue="Application.C02_SwitchIntro" />
         <item itemvalue="Application.C08_IfBeden" />
         <item itemvalue="Application.C11_HarfDonusturucu" />
-        <item itemvalue="Application.c05_IfExample2" />
-        <item itemvalue="Application.C02_IfElse_DayOfWeek" />
-        <item itemvalue="Application.C10_HomeWork2" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737656445840</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit of day14">
+      <option name="closed" value="true" />
+      <created>1737664539629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737664539629</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +341,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk commit" />
     <MESSAGE value="bugunki commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugunki commit" />
+    <MESSAGE value="commit of day14" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit of day14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

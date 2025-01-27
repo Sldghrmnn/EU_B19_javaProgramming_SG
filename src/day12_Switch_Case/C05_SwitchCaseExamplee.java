@@ -12,7 +12,7 @@ if code (A/a)—>"Amber"
 if code (G/g)—>"Green"
 */
         Scanner renkGir=new Scanner(System.in);
-        System.out.println("Trafik lambasi rengini tek harf olarak giriniz : ");
+        System.out.print("Trafik lambasi rengini tek harf olarak giriniz : ");
         String color=renkGir.nextLine();
 
 switch (color){
@@ -38,6 +38,34 @@ switch (color){
         System.out.println("Trafik lambasinda boyle bir renk yoktur");
 }
 
+/// /////////////////////////////////////////////////////
+
+        Scanner renkGir1=new Scanner(System.in);
+        System.out.print("Trafik lambasi rengini tek harf olarak giriniz : ");
+        char color1=renkGir1.nextLine().charAt(0);
+
+        switch (color1){
+            case 'R':
+                System.out.println("Red");
+                break;
+            case 'r':
+                System.out.println("Red");
+                break;
+            case 'A':
+                System.out.println("Amber");
+                break;
+            case 'a':
+                System.out.println("Amber");
+                break;
+            case 'G':
+                System.out.println("Green");
+                break;
+            case 'g':
+                System.out.println("Green");
+                break;
+            default:
+                System.out.println("Trafik lambasinda boyle bir renk yoktur");
+        }
 
 
 

@@ -23,22 +23,17 @@ public class C04_AdvancedSwitch {
             case 7 -> gunAdi="Pazar";
             default -> System.out.println("Gecersiz gun bilgisi");
 
-
         }
 
         /// /////////////////////////////////////////////
 
         switch (day){
-            case 1,2,3,4,5:
-                gunTipi="Haftaici";
-            case 6,7:
-                gunTipi="Haftasonu";
-            default:
-                System.out.println("Gecersiz gun bilgisi !!!");
-
-
-
-
+            case 1,2,3,4,5 -> gunTipi="Haftaici";
+            case 6,7-> gunTipi="Haftasonu";
+            default ->  System.out.println("Gecersiz gun bilgisi !!!");
+        }
+        if (gunAdi != ""){
+            System.out.println("Haftanın "+gunAdi+ " günüdür. Ve "+gunTipi+ "'dir.");
         }
     }
 }

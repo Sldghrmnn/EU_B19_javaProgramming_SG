@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class C07_SwitchCaseBankMenu {
     public static void main(String[] args) {
+
         System.out.println("ABC Bankasina hos geldiniz ");
         System.out.println("----------------------------------");
 
@@ -16,30 +17,31 @@ public class C07_SwitchCaseBankMenu {
         System.out.println("Yapacaginiz islem numarasini giriniz : ");
 
         int secim = input.nextInt();
-        int bakiye =5000;
+        int bakiye = 5000;
 
         switch (secim){
             case 1 :
-                System.out.println("Bakiyeniz = " +bakiye+ "TL");
+                System.out.println("Bakiyeniz = " +bakiye+ " TL");
                 break;
             case 2 :
                 System.out.println("Cekeceginiz para miktarini giriniz --->");
                 int miktar = input.nextInt();
                 if (miktar > bakiye){
                     System.out.println("yetersiz bakiye...!");
-                    System.out.println("En fazla cekebileceginiz miktar = " +bakiye+ "TL");
+                    System.out.println("En fazla cekebileceginiz miktar = " +bakiye+ " TL");
                 }else{
-                    bakiye -=miktar;
-                    System.out.println("Guncel bakiyeniz = " +bakiye+"TL");
+                    bakiye -= miktar;
+                    System.out.println("Guncel bakiyeniz = " +bakiye+" TL");
                 }
                 break;
             case  3 :
                 System.out.println("Yatiracaginiz  para miktarini giriniz --->");
                 int yatirilanMiktar = input.nextInt();
-                bakiye +=yatirilanMiktar;
-                System.out.println("Guncel bakiyeniz = " +bakiye+"TL");
-                break;
+                bakiye += yatirilanMiktar;
+                System.out.println("Guncel bakiyeniz = " +bakiye+" TL");
+
             case 4 :
+                System.out.println("Bankamizi tercih ettiginiz icin tesekkurler...");
                 break;
             default:
                 System.out.println("gecersiz islem...!");

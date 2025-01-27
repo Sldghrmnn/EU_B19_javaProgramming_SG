@@ -14,7 +14,7 @@ public class C02_AdvancedSwitchCase {
 
 
         System.out.println("levelStr = " + levelStr);
-         //switch islemi sonucunda olusan deger vir variable atanmak isteniyorsa,
+         //switch islemi sonucunda olusan deger bir variable atanmak isteniyorsa,
         // butun case'lerin sonucunda olusan deger ile atanacak variable data tipi ayni olmali!
 
         switch (level){

@@ -23,13 +23,26 @@ public class C03_SwitchWeekDays {
             case 5 -> gunAdi = "Cuma";
             case 6 -> gunAdi = "Cumartesi";
             case 7 -> gunAdi = "Pazar";
-            default -> System.out.println("Geçersiz gün bilgisi!!!");
+          //  default -> System.out.println("Geçersiz gün bilgisi!!!");
+        }
+        if (gunAdi != ""){
+            System.out.println("Haftanın "+gunAdi+ " günüdür. ");
         }
 //////////////////////////
         switch (day){
-            case 1,2,3,4,5 -> gunTipi = "Haftaiçi";
-            case 6,7 -> gunTipi = "Haftasonu";
-            default -> System.out.println("Geçersiz gün bilgisi!!!");
+            case 1:
+            case 2:
+            case 3:
+            case 4:
+            case 5:
+                gunTipi = "Haftaiçi";
+                break;
+            case 6:
+            case 7:
+                 gunTipi = "Haftasonu";
+                 break;
+               default:
+                    System.out.println("Geçersiz gün bilgisi!!!");
         }
 
         if (gunAdi != ""){
