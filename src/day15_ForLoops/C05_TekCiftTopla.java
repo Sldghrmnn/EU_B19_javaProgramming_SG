@@ -24,9 +24,10 @@ public class C05_TekCiftTopla {
 
         int tekSayilar = 0;
         int ciftSayilar = 0;
+
         for (int i = 0; i <= 100; i++){
            ciftSayilar += (i % 2 == 0) ? i : 0;
-           tekSayilar += (i % 2 == 0) ? i : 0;
+           tekSayilar += (i % 2 == 1) ? i : 0;
         }
         System.out.println("ciftSayilar = " + ciftSayilar);
         System.out.println("tekSayilar = " + tekSayilar);

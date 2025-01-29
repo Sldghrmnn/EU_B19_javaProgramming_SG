@@ -4,9 +4,9 @@ public class C07_ForLoop_4 {
     public static void main(String[] args) {
 
         // tum nümerik data tipleri loop da kullanilabilir.
-        // byte,char,long,double gibi
+        // byte,char,int,long,float,double gibi
 
-        for (byte b = 0; b <= 25; b++){
+        for (byte b = 0; b <= 5; b++){
             System.out.println("b = " + b);
         }
         // double kullanalim- cok yaygin birsey degil
@@ -38,8 +38,11 @@ public class C07_ForLoop_4 {
             System.out.println("k = " + k);
         }
 
-        // for i loop da sedece for kelimesi ve 2 adet  ;; koymak zorunludur.
-        for (;;){}
+        // for 'i' loop da sedece for kelimesi ve 2 adet  ;; koymak zorunludur.
+        //;; parantez icinde yapildiginda sonsuz kere yazdrir
+        for (;;){
+
+        }
 
 
 

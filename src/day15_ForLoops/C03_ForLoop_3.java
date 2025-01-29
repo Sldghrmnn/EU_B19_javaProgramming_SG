@@ -40,9 +40,9 @@ public class C03_ForLoop_3 {
 
         // verilen sayiya kadar olan sayilari toplayan kodu yaziniz
         //Scanner kullanalim.
-        Scanner input = new Scanner(System.in);
-        System.out.println("Lutfen pozitif bir tamsayi giriniz : ");
-        int girilenSayi = input.nextInt();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Lutfen pozitif bir tam sayi giriniz : ");
+        int girilenSayi = sc.nextInt();
         int toplam = 0;
         for (int i = 1 ; i <= girilenSayi; i++){
             toplam += i;

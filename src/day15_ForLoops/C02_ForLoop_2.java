@@ -22,12 +22,13 @@ public class C02_ForLoop_2 {
         System.out.println("-----------------------------------------");
        // dongulerde,index degeri degistirilmezse, sonsuz donguye girilir.
         // i'yi degeri bady icinde de degistirilebilir.
-
-        for (int i = 0; i <= 10; i += 2){
+        int i;
+        for (i = 0; i <= 10; i += 2){
             System.out.println("i = " + i);
 
         }
         System.out.println("for sonrasi");
+        System.out.println("i = " + i);
 
 
     }

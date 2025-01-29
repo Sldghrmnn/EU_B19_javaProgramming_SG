@@ -26,9 +26,10 @@ public class C04_KalansizBolunenler {
         }
 
         System.out.println("toplam = " + toplam);
-        int toplam2 = 0;
 
+        System.out.println("-----------------------------------------------");
         //2.yol
+        int toplam2 = 0;
         for (int i =6; i <= 50; i+=6){
             toplam2 += i;
         }
