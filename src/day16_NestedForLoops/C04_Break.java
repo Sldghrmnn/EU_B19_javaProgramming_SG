@@ -38,16 +38,18 @@ public class C04_Break {
             }
         }
         System.out.println("toplam = " + toplam1);
+
         System.out.println("--------------------------------------");
-        hans:  //etiket herhangi bir sey yazilabilir
+
+
         for (int i=1; i<=10; i++){
             for (int j =1; j<=10; j++){
                 if (i * j==16 || i * j==20){
-                   // break; // inner loop un sonuna atiyor
-                    break hans; //outer loop un sonuna atar
+                    break;
                 }
                 System.out.println( i +"*"+ j + "=" + i*j +"\t");
             }
+            System.out.println();
         }// breaak hans-> buraya gönderir
 
 
@@ -56,6 +58,19 @@ public class C04_Break {
         // 3*1=3   3*2=6.......3*10=30
         // 4*1=4   4*2=8........( 4*4=16)
         // 5*1=5   5*2=10.....(5*4=20)
+
+        hans:  //etiket herhangi bir sey yazilabilir
+        for (int i=1; i<=10; i++){
+            for (int j =1; j<=10; j++){
+                if (i * j==16 || i * j==20){
+                    // break; // inner loop un sonuna atiyor
+                    break hans; //outer loop un sonuna atar
+                }
+                System.out.println( i +"*"+ j + "=" + i*j +"\t");
+            }
+            System.out.println();
+        }// breaak hans-> buraya gönderir
+
 
 
 

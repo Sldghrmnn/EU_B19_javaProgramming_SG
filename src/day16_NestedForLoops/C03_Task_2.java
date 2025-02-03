@@ -58,7 +58,22 @@ public class C03_Task_2 {
             }
             System.out.println();
         }
-
+        System.out.println("-------------------------------------\n");
+        for (int i = 1; i < 6; i++) {
+            if (i <= 3) {
+                // inner loop 1
+                for (int j = 1; j <= i; j++) {
+                    System.out.print("x ");
+                }
+                System.out.println();
+            } else {
+                // inner loop 2
+                for (int k = 5; k >= i; k--) {
+                    System.out.print("x ");
+                }
+                System.out.println();
+            }
+        }
 
 /***
  *      x           kutu 1  findik sayisi 1
@@ -75,8 +90,8 @@ public class C03_Task_2 {
         // Hint :
 
         // outer loop
-        for (int i = 1; i < 6; i++) {
-            if (i <= 3) {
+        for (int i = 1; i < 10; i++) {
+            if (i <= 5) {
                 // inner loop 1
                 for (int j = 1; j <= i; j++) {
                     System.out.print("x ");
@@ -84,11 +99,23 @@ public class C03_Task_2 {
                 System.out.println();
             } else {
                 // inner loop 2
-                for (int k = 5; k >= i; k--) {
+                for (int k = 9; k >= i; k--) {
                     System.out.print("x ");
                 }
                 System.out.println();
             }
+        }
+        // ornek cozum:
+        int kutuSayisi = 9;
+        for(int i=1;i<=kutuSayisi;i++){
+            int findikSayisi = i;
+            if(i>(kutuSayisi/2 +1)){
+                findikSayisi = kutuSayisi + 1 - i;
+            }
+            for(int j=1;j<=findikSayisi;j++){
+                System.out.print("x ");
+            }
+            System.out.println();
         }
 
 

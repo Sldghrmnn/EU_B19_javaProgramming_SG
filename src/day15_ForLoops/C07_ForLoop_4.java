@@ -25,7 +25,7 @@ public class C07_ForLoop_4 {
         for (x = 10; x < 20; x++){
             System.out.println("x = " + x);
         }
-        // arttirma yada eksiltme kod blokunun icinde de olabilir
+        // artirma yada eksiltme kod blokunun icinde de olabilir
 
         for (int i = 10; i > 0;){
             i--;
