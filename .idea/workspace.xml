@@ -4,35 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="branching and labeled statements">
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C19_WhileLoopIkiBasamakli7Bolunen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C20_whileLoopTamSayilar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C21_TamKare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/HomeWork" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C01_SayHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C02_BuyukSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C03_UniqueNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C04_DebuggingMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C05_MethodInLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C06_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C07_Amazon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C08_HierarchicalMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C09_DeepDeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C10_CreditEligible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C11_GoogleShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C12_ReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C13_ParameterizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/C14_task_homeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_Methods1/homework" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 19">
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C01_CustomMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C02_CustomMethodpractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C05_MethodsTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_NestedForLoops/C05_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_NestedForLoops/C05_Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C01_DoWhile_WhileLoops1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C05_Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C05_Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C17_ReturnExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Review_BranchmentAndLabeledStatements/C18_SwitchContinueLabeled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day19_Methods1/homework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_Methods1/homework" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +93,8 @@
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C08_HierarchicalMethodCall.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C10_CreditEligible.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C12_ReturnType.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C13_ParameterizedMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -185,6 +168,7 @@
     "Application.C05_EvenlyDivisible.executor": "Run",
     "Application.C05_Example04.executor": "Run",
     "Application.C05_MethodInLoop.executor": "Debug",
+    "Application.C05_MethodsTasks.executor": "Run",
     "Application.C05_NestedIf_ClassTask.executor": "Run",
     "Application.C05_ScannerTask.executor": "Run",
     "Application.C05_ShortHandOperators.executor": "Run",
@@ -199,6 +183,7 @@
     "Application.C06_IfElseTernary.executor": "Run",
     "Application.C06_If_ElseIf.executor": "Run",
     "Application.C06_LogicalOperatorsExample.executor": "Run",
+    "Application.C06_PracticeWithReturn.executor": "Run",
     "Application.C06_ReverseNumber.executor": "Run",
     "Application.C06_SayiTerstenOlusturma.executor": "Debug",
     "Application.C06_SayininRakamlariToplami.executor": "Run",
@@ -272,7 +257,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C14_task_homeWork">
+  <component name="RunManager" selected="Application.C05_MethodsTasks">
     <configuration name="C02_BuyukSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_Methods1.C02_BuyukSayi" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -286,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_UniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C03_UniqueNumber" />
+    <configuration name="C05_MethodsTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C05_MethodsTasks" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_MethodInLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C05_MethodInLoop" />
+    <configuration name="C06_PracticeWithReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C06_PracticeWithReturn" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day20_CustomMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C05_MethodsTasks" />
+        <item itemvalue="Application.C06_PracticeWithReturn" />
         <item itemvalue="Application.C14_task_homeWork" />
         <item itemvalue="Application.C02_BuyukSayi" />
         <item itemvalue="Application.C08_HierarchicalMethodCall" />
-        <item itemvalue="Application.C05_MethodInLoop" />
-        <item itemvalue="Application.C03_UniqueNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738614812780</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit day 19">
+      <option name="closed" value="true" />
+      <created>1738762741172</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738762741172</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +470,8 @@
     <MESSAGE value="commit of day16" />
     <MESSAGE value="commit of day17" />
     <MESSAGE value="branching and labeled statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="branching and labeled statements" />
+    <MESSAGE value="commit day 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
