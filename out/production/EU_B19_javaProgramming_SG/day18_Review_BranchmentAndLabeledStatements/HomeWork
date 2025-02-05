@@ -1,0 +1,15 @@
+day 18
+
+Soru 1- While loop kullanarak 2 basamakli 7 ile bolunebilen pozitif tamsayilari yazdirin.
+
+Soru 2- While loop kullanarak kullanicidan alinan sayinin rakamlar toplamini bulun.
+
+Soru 3- Kullanicidan toplanmak uzere pozitif tamsayilar isteyin. Kullaniciya bitirmek istediginde 0'a basmasini soyleyin. Kullanici bitirmek istediginde
+toplam kac adet pozitif tam sayi girdiginive bunlarin toplaminin kac oldugunu yazdirin. Kullanici negatif sayi girerse "negatif sayi kullanamazsiniz
+" yazdirin, bu negatif sayiyi sayi adedine ve toplama eklemeyin
+
+Soru 4- Kullanicidan bir sayi ve hesaplamak istedigi ussunu isteyin. While loop kullanarak verilen sayinin istenen ussunu hesaplayip yazdirin.
+
+Soru 5- Kullanicidan bir pozitif sayi isteyin, verilen sayı tam kare değilse kullanıcı sayı girmeye devam etsin, tam kare ise
+: “Girilen sayı 2 sayısının tam karesidir.” yazdırsın..
+Ornek : input : 16,  output : Girilen sayı 4 sayısının tam karesidir.

@@ -9,7 +9,8 @@ public class C17_ReturnExample {
             }
             System.out.println(i);
         }
-        System.out.println("dddddd"); // return da methodu bitirdigi icin, bu sirayi artik kullanmaz(gormez)
+        System.out.println("dddddd"); // return da methodu bitirdigi icin,
+        // bu sirayi artik main methodunda kullanmaz(gormez)
 
 
 

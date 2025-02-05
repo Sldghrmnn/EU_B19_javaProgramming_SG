@@ -16,7 +16,7 @@ public class C05_Counter {
 
         System.out.println(" 1-1000 arasinda 17'e tam bolunen " +counter+" sayi vardir.");
 
-        //while loop ile deneeyelim birde
+        //while loop ile deneyelim birde
 
         int index = 0;
         int counter1 = 0;

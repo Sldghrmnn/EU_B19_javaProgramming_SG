@@ -1,0 +1,31 @@
+day 19
+
+
+
+task 2.
+Write a method that calculates the sum of 3 numbers
+sumOfNumbers();
+3 sayinin toplamini hesaplayan bir yontemm yaziniz
+sayilarintoplami();
+
+task 3.
+Write a method that converts Celsius to Fahrenheit
+convertFehreneit();
+celsius u fahrenheit e donusturen bir yontem yaziniz
+coonvertFahreneit();
+
+task 4.
+Write a program that iterates numbers and checks if number is even or
+odd, according to evaluation it sums even and odd numbers, displays result in
+two different methods.
+sumOfOddNumbers();
+sumOfEvenNumbers();
+
+sayilari yineleyen ve sayilarin tek mi cift mi oldugunu kontrol eden degerlendirmeye gore
+cift ve tek sayilari toplayan sonucu iki farkli yontemle gosteren bir program yazin.
+teksayilarintoplami ();
+ciftsaayilarintoplami();
+
+
+
+

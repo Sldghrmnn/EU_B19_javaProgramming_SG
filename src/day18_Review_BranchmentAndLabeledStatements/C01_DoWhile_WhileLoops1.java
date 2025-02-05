@@ -4,14 +4,9 @@ import java.util.Scanner;
 
 public class C01_DoWhile_WhileLoops1 {
     public static void main(String[] args) {
-     // kod calistir   /do while örnek...
-     //sarta bak -1 kere bakti
 
-     //sarta bak   / while de ornek 1-2. ye gelip teyit etmesi gerekecek
-     //kod calistir
-
-     // do-while loop ile verilen sayidan baslayip bbirer azaltarak
-     // 3 e kadar olan sayilari yazdiralim.
+     // do-while loop ile verilen sayidan baslayip, birer azaltarak
+     // 3'e kadar olan sayilari yazdiralim.
 
         Scanner sayiGir=new Scanner(System.in);
         System.out.println("Bir tam sayi giriniz : ");
@@ -33,6 +28,11 @@ public class C01_DoWhile_WhileLoops1 {
 
 
 
+        // kod calistir   /do while örnek...
+        //sarta bak -1 kere bakti
+
+        //sarta bak   / while de ornek 1-2. ye gelip teyit etmesi gerekecek
+        //kod calistir
 
 
 

@@ -34,7 +34,7 @@ public class C05_Continue {
         }
         /**
          * 1-1000 arasinda 3 e ve 5 e ortak bolunen
-         *  -saayilari ekrana yazdiriniz
+         *  -sayilari ekrana yazdiriniz
          *  -sayilarin adedini yazdiriniz
          */
         System.out.println("****************************************");
