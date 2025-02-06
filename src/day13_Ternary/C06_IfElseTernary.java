@@ -14,7 +14,7 @@ public class C06_IfElseTernary {
         double sayi = scan.nextDouble();
 
         if(sayi >=0)
-            System.out.println(sayi+" pozitif bir sayyidir");
+            System.out.println(sayi+" pozitif bir sayidir");
         else
             System.out.println(sayi+" negatif bir sayidir ");
 

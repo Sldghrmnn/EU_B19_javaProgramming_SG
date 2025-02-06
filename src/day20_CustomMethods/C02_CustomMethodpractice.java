@@ -10,14 +10,18 @@ public class C02_CustomMethodpractice {
         countDownTenToZero2();
         System.out.println();
         System.out.println("------------------------------");
+        ciftSayilar();
+        System.out.println("\n");
+        ciftSayilar2();
 
 
     }
 
     public static void helloWorld5Times() {
-        for (int i = 1; i <= 5; i++) {  // intialition--condition(kosul)--incerement or decrement(artirma eksiltme)
-            System.out.println("Hello World");
+        for (int i = 1; i <= 5; i++) {
+         // initialition(baslangic degeri)-;-condition(kosul)-;-increment or decrement(artirma eksiltme)
 
+            System.out.println("Hello World");
         }
     }
 
@@ -28,7 +32,6 @@ public class C02_CustomMethodpractice {
         for (int i = 10; i > 0; i--) {
             System.out.print(i + " ");
         }
-
     }
 
     public static void countDownTenToZero2() {
@@ -41,13 +44,23 @@ public class C02_CustomMethodpractice {
 
     // 0 ile 100 arasindaki cift sayilari yazan bir method yazin.
 
-    public static void ciftSayilar() {
+    public static void ciftSayilar(){
         for (int i = 0; i <= 100; i++) {
             if (i % 2 == 0) {
+                System.out.print(i + " ");
             }
-            System.out.println(i + " ");
+
         }
     }
+    public static void ciftSayilar2(){
+        for (int i = 0; i <= 100; i +=2) {
+            System.out.print(i + " ");
+        }
+    }
+
+
+
+
 
 
 

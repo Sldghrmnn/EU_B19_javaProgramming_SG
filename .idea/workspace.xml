@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 19">
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C01_CustomMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C02_CustomMethodpractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C05_MethodsTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 20">
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C01_Faktoriyel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C02_MethodCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C03_NameOfMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C04_ReturnTheBiggest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C05_Initials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C06_MethodOverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C07_MethodOverLoading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C08_NtimesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C09_Davetiye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C10_oyKullanma_dersNotPuani_odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/day19_ClassNotes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day19_Methods1/homework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_Methods1/homework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C06_IfElseTernary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day13_Ternary/C06_IfElseTernary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_Ternary/C06_IfElseTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13_Ternary/C06_IfElseTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_CustomMethods/C02_CustomMethodpractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C02_CustomMethodpractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTaks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_CustomMethods/C05_MethodsTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C05_MethodsTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +105,10 @@
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C12_ReturnType.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day19_Methods1/C13_ParameterizedMethod.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C03_MethodsWithParameters.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C04_PracticeTaks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day20_CustomMethods/C06_PracticeWithReturn.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C01_Faktoriyel.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C04_ReturnTheBiggest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -119,6 +133,7 @@
     "Application.C01_WhileLoops.executor": "Run",
     "Application.C02_BuyukSayi.executor": "Run",
     "Application.C02_ClassTask.executor": "Run",
+    "Application.C02_CustomMethodpractice.executor": "Run",
     "Application.C02_DataTypesMiniMax.executor": "Run",
     "Application.C02_HomeWork.executor": "Run",
     "Application.C02_IfElse_DayOfWeek.executor": "Run",
@@ -138,6 +153,8 @@
     "Application.C03_Example02.executor": "Run",
     "Application.C03_ForLoop_3.executor": "Run",
     "Application.C03_If_Example.executor": "Run",
+    "Application.C03_MethodsWithParameters.executor": "Run",
+    "Application.C03_NameOfMonth.executor": "Run",
     "Application.C03_NarrowingCasting.executor": "Run",
     "Application.C03_StringConcatenation.executor": "Run",
     "Application.C03_SwitchWeekDays.executor": "Run",
@@ -155,6 +172,7 @@
     "Application.C04_Example03.executor": "Run",
     "Application.C04_KalansizBolunenler.executor": "Run",
     "Application.C04_Rectangle.executor": "Run",
+    "Application.C04_ReturnTheBiggest.executor": "Run",
     "Application.C04_Scanner.executor": "Run",
     "Application.C04_TernaryExample1.executor": "Run",
     "Application.C04_UnaryOperators.executor": "Run",
@@ -167,6 +185,7 @@
     "Application.C05_EscapeCharacters.executor": "Run",
     "Application.C05_EvenlyDivisible.executor": "Run",
     "Application.C05_Example04.executor": "Run",
+    "Application.C05_Initials.executor": "Run",
     "Application.C05_MethodInLoop.executor": "Debug",
     "Application.C05_MethodsTasks.executor": "Run",
     "Application.C05_NestedIf_ClassTask.executor": "Run",
@@ -213,6 +232,7 @@
     "Application.C08_HomeWorkdevam.executor": "Run",
     "Application.C08_IfBeden.executor": "Run",
     "Application.C08_LogicalAND.executor": "Run",
+    "Application.C08_NtimesString.executor": "Run",
     "Application.C08_Rectangle.executor": "Run",
     "Application.C08_dersNotlari.executor": "Run",
     "Application.C08_odev_ilk.executor": "Run",
@@ -226,6 +246,7 @@
     "Application.C10_NestedLoopsBreak.executor": "Run",
     "Application.C10_Rectangle.executor": "Run",
     "Application.C10_odev_uc.executor": "Run",
+    "Application.C10_oyKullanma_dersNotPuani_odev.executor": "Run",
     "Application.C11_HarfDonusturucu.executor": "Run",
     "Application.C11_HomeWork3.executor": "Run",
     "Application.C11_odev_dort.executor": "Run",
@@ -254,16 +275,16 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C05_MethodsTasks">
-    <configuration name="C02_BuyukSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C02_BuyukSayi" />
+  <component name="RunManager" selected="Application.C10_oyKullanma_dersNotPuani_odev">
+    <configuration name="C03_NameOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_ReturnMethods_MethodOverloading.C03_NameOfMonth" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day21_ReturnMethods_MethodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_MethodsTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C05_MethodsTasks" />
+    <configuration name="C04_ReturnTheBiggest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_ReturnMethods_MethodOverloading.C04_ReturnTheBiggest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20_CustomMethods.*" />
+          <option name="PATTERN" value="day21_ReturnMethods_MethodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_PracticeWithReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20_CustomMethods.C06_PracticeWithReturn" />
+    <configuration name="C05_Initials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_ReturnMethods_MethodOverloading.C05_Initials" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20_CustomMethods.*" />
+          <option name="PATTERN" value="day21_ReturnMethods_MethodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_HierarchicalMethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C08_HierarchicalMethodCall" />
+    <configuration name="C08_NtimesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_ReturnMethods_MethodOverloading.C08_NtimesString" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day21_ReturnMethods_MethodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14_task_homeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Methods1.C14_task_homeWork" />
+    <configuration name="C10_oyKullanma_dersNotPuani_odev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_ReturnMethods_MethodOverloading.C10_oyKullanma_dersNotPuani_odev" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Methods1.*" />
+          <option name="PATTERN" value="day21_ReturnMethods_MethodOverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C05_MethodsTasks" />
-        <item itemvalue="Application.C06_PracticeWithReturn" />
-        <item itemvalue="Application.C14_task_homeWork" />
-        <item itemvalue="Application.C02_BuyukSayi" />
-        <item itemvalue="Application.C08_HierarchicalMethodCall" />
+        <item itemvalue="Application.C10_oyKullanma_dersNotPuani_odev" />
+        <item itemvalue="Application.C08_NtimesString" />
+        <item itemvalue="Application.C05_Initials" />
+        <item itemvalue="Application.C03_NameOfMonth" />
+        <item itemvalue="Application.C04_ReturnTheBiggest" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738762741172</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit day 20">
+      <option name="closed" value="true" />
+      <created>1738793224912</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738793224912</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +500,8 @@
     <MESSAGE value="commit of day17" />
     <MESSAGE value="branching and labeled statements" />
     <MESSAGE value="commit day 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 19" />
+    <MESSAGE value="commit day 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

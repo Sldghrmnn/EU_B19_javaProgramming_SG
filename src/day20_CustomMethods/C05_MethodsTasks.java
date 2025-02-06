@@ -13,7 +13,7 @@ public class C05_MethodsTasks {
 
         System.out.println("---------------------------------------------");
 
-        kilogramiLibrayaCevir(5);
+        kilogramiLibrayaCevir(5.0);
         System.out.println(kilogramiLibrayaCevir(5));
         //double kilogram= 5;
         //double lp = kilogramiLibrayaCevir(kilogram);
@@ -42,6 +42,7 @@ public class C05_MethodsTasks {
 // 3. create a method that can determine if the given integer is positive, negative or zero -void yap
 
     /**
+     * dolari kur hesabi uzerinden tl ye cevir
      *
      * @param dollarMiktari
      * @return
@@ -53,6 +54,7 @@ public class C05_MethodsTasks {
     }
 
     /**
+     * kilo yu libreye cevir kilo*2.2=lb
      *
      * @param kilogram
      * @return

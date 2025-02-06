@@ -1,0 +1,46 @@
+day 19
+
+
+      Return Methods - Overloading
+
+      /**  +Enter---> Method Description
+
+      baska bir class'in metodunu cagirirken
+      bulundugunuz class'da
+      Class'in adi .methodAdi() -- yazarak cagirabiliriz.
+
+
+      method overloading
+      Multiple different methods sharing the the same NAME
+      - same MethodName, different parameters
+      - return type, access modifiers, specifier can be same or different
+
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+        ayni adi paylasan ,birden fazla farkli yontem
+        ayni method isimleri ancak farkli parametreler
+        donuus tipi,erisim tanimlayici ,belirtecler ayni veya farkli olabilir
+      ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      Advamtages                                        avantajlari
+      1. easy to remember                       1. tekrar girisi kolay
+      2.easy to read(readable)                  2. okunmasi kolay (okunulabilir)
+      3.reesuable                               3. islenebilir
+      4.flexible                                4. esnek
+
+Task:
+
+
+       //	1. create return  method that can check if a person is eligible to vote
+        //    Ex:
+         //				eligibleToVote(19, "TR");
+         //
+         //			output:
+         //				You are not eligible to vote!
+
+
+
+         //	5. create a method that returns calculate the grade of the student based on the score
+         // score >= 90 grade 'A'
+         // score >= 80 grade 'B'
+         // score >= 70 grade 'C'
+         // score >= 60 grade 'D'
+         // score < 60 grade 'F'

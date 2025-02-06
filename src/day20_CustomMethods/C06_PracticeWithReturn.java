@@ -6,7 +6,11 @@ public class C06_PracticeWithReturn {
         System.out.println(tekSayilar());
 
         System.out.println(isEligibleToAlcohol(24));
-        System.out.println("alkol zararlidir!!!");
+
+        if (isEligibleToAlcohol(25)){
+            System.out.println("alkol zararlidir!!!");
+        }
+
 
         System.out.println(ciftSayilar());
 
@@ -19,9 +23,9 @@ public class C06_PracticeWithReturn {
      */
 
     public static String tekSayilar(){
-        String result ="";
+        String result =" ";
         for (int i = 1; i <= 100 ; i +=2) {
-            result += i +" ";
+            result += i+" ";
         }
         return result;
     }
@@ -34,7 +38,7 @@ public class C06_PracticeWithReturn {
      */
     public static String ciftSayilar(){
         String sonuc = "";
-        for (int i = 0; i < 100; i +=2) {
+        for (int i = 0; i <= 100; i +=2) {
             sonuc += i +" ";
         }
 
