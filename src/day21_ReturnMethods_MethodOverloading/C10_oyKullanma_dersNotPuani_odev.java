@@ -4,12 +4,14 @@ import java.util.Scanner;
 
 public class C10_oyKullanma_dersNotPuani_odev {
     public static void main(String[] args) {
+
       oyKullanmaSarti();
 
         System.out.println("----------------------");
-        System.out.print("Bu dersten aldiginiz puan notunuz : ");
-        System.out.println(puanNotu(78));
 
+        System.out.print("Bu dersten aldiginiz puan notunuz : ");
+        System.out.println(puanNotu(85));
+      
 
     }
 

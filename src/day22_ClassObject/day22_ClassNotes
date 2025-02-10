@@ -1,0 +1,40 @@
+java--oop--OBJECT ORIENRED PROGRAMMING  NESNE YONELIMLI
+
+
+Classname objeadi = new Classname();
+
+            Stack ----- Heap
+                        car1.name
+                        car1.model
+                        car1.renk
+
+
+
+  Static Non Static methods ve Variable
+
+Static method ve degiskenler---- class a aittir ve class adi ile cagrilir
+
+  Classname.VariableName;
+  Classname.Methodname;
+
+
+Static olmayan degisken ve method Obje'ye aittir---Nesne'ye aittir. Nesne olusturulmadan cagrilmaz!
+
+  Classname cls= new Classname();
+  cls.VariableName;
+  cls.MethodName;
+
+
+
+  task:
+
+   Math2
+   pow methodu yazin-- po(num1,num2)
+   iki sayi alacak ve birinci sayi taban,ikinci sayi kuvvet olacak
+   2 uzeri 4 =2*2*2*2
+
+   buradan bir obje olusturarak pow  methodunu cagiracaksiniz...
+
+   1. obje olusturmadan methodu fakli bir main class da cagirin
+   2. obje olusturarak methodu farkli bir main class da cagirin
+
