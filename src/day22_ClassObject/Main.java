@@ -105,9 +105,13 @@ public class Main {
         System.out.println(str == str2);
         // sitem icindekilere bakmaz,referanslatri kontrol eder
         // ve false verir.farkli obje olarak tanimliyor.
+
         System.out.println("--------------------------------------------");
 
+        System.out.println("Math2.sayiKuvveti() = " + Math2.sayiKuvveti(2,3));
 
+        Math2 obj=new Math2();
+        System.out.println("obj.pow(3,2) = " + obj.pow(2, 3));
 
     }
 }

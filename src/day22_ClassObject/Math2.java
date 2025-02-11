@@ -2,14 +2,27 @@ package day22_ClassObject;
 
 public class Math2 {
 
-    public double pow(double taban,int kuvvet){
-        double sonuc1 = 1.0;
+    public static int sayiKuvveti(int  taban,int kuvvet){
+        int sonuc=1;
+
         if (kuvvet<0){
-            taban=1;
+            taban =1;
             kuvvet= -kuvvet;
         }
         for (int i = 0; i < kuvvet; i++) {
-          sonuc1 *= taban;
+            sonuc *= taban;
+        }
+        return sonuc;
+    }
+
+    public double pow(int sayi1,int sayi2){
+        double sonuc1 = 1;
+        if (sayi2<0){
+            sayi1=1;
+            sayi2= -sayi2;
+        }
+        for (int i = 0; i < sayi2; i++) {
+          sonuc1 *= sayi1;
         }
         return sonuc1;
     }
