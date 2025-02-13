@@ -2,7 +2,9 @@ package day23_Review;
 
 public class C04_HesapMakinasi {
     public static void main(String[] args) {
+
         double islemSonucu;
+
         islemSonucu=hesapMakinasi(10,2,'+');
         System.out.println("islemSonucu = " + islemSonucu);
 

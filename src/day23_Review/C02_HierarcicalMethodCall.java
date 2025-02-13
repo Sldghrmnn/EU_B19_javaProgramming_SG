@@ -5,11 +5,11 @@ public class C02_HierarcicalMethodCall {
     public static void main(String[] args) {
 
         System.out.println("Main Method");
-        mesajGonder();
+        mesajGoster();
         System.out.println("Tekrar Main Method");
 
     }
-    public static void mesajGonder(){
+    public static void mesajGoster(){
         System.out.println("Merhaba Dunya");
         hesapMakinasi();
         System.out.println("Tekrar mesaj goster methodunda");

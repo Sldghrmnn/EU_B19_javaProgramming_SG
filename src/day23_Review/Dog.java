@@ -5,9 +5,9 @@ public class Dog {
     // templater--blueprint--taslak
     // fields---ozellikler
 
-    String ad=" ";
-    String cins=" ";
-    String renk=" ";
+    String ad;
+    String cins;
+    String renk;
     int yas;
     char cinsiyet;
     boolean evcilMi;
@@ -23,7 +23,7 @@ public class Dog {
     public void mamaYe(){
         System.out.println(ad+" mama yiyor...");
     }
-    public void sueuGud(){
+    public void suruGut(){
         System.out.println(ad+" suru guduyor...");
     }
 

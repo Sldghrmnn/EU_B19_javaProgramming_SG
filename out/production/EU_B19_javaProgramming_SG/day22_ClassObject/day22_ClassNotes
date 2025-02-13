@@ -1,12 +1,12 @@
-java--oop--OBJECT ORIENRED PROGRAMMING  NESNE YONELIMLI
+java--OOP--OBJECT ORIENRED PROGRAMMING  NESNE YONELIMLI
 
 
-Classname objeadi = new Classname();
+      Classname objeadi = new Classname();
 
-            Stack ----- Heap
-                        car1.name
-                        car1.model
-                        car1.renk
+                 Stack ----- Heap
+                             car1.name
+                             car1.model
+                             car1.renk
 
 
 

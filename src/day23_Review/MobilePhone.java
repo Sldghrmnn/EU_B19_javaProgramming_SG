@@ -2,12 +2,10 @@ package day23_Review;
 
 public class MobilePhone {
 
-
-
     String marka;
     String model;
     String renk;
-    double fiyat;
+    int fiyat;
     double  boyut;
     int  kapasite;
     boolean mesajAtabiliyorMu;
@@ -15,15 +13,19 @@ public class MobilePhone {
 
     public void ara(){
         System.out.println(model+" arama yapiyor");
+        mesajAt();
     }
     public void mesajAt(){
         System.out.println(model+" mesaj atiyor");
+        fotografCek();
     }
     public void fotografCek(){
         System.out.println(model+" Fotograf cekiyor");
+        interneteBaglan();
     }
     public void interneteBaglan(){
         System.out.println(model+" Internete baglaniyor");
+        System.out.println("Ana menuye dondu");
     }
 }
 /*

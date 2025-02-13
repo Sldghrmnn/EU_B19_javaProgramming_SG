@@ -4,25 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 22">
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C02_HierarcicalMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C03_Google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/C04_HesapMakinasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_Review/MobilePhone.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 23">
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C01_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C02_UserInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C03_SayilarinOrtalamasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C04_ScannerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C05_ScannerFromTxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C06_ScannerFromTxtFile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/C07_ScannerWithPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_Reading_User_Input_Scanner/Scanner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C01_RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C02_RandomPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C03_NumberPicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C04_Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C05_MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C06_MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C07_DateTimeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C08_DogumGunu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/C01_Static_Math2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/HomeWork.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/Math2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/Math2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_ClassObject/C01_Static_Math2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_ClassObject/HomeWork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_ClassObject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_ClassObject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/day22_ClassNotes" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day22_ClassObject/day22_ClassNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C01_DebuggingMethodCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C01_DebuggingMethodCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C02_HierarcicalMethodCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C02_HierarcicalMethodCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C04_HesapMakinasi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/C04_HesapMakinasi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Cake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Cake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/DogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/DogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day23_Review/MobilePhone.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day22_ClassObject/Math2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_ClassObject/Math2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_ClassObject/day22_ClassNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_ClassObject/day22_ClassNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/C02_HierarcicalMethodCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/C02_HierarcicalMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/C04_HesapMakinasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/C04_HesapMakinasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Review/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Review/MobilePhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +57,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -110,12 +130,16 @@
     <setting file="file://$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C04_ReturnTheBiggest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day21_ReturnMethods_MethodOverloading/C10_oyKullanma_dersNotPuani_odev.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day23_Review/C04_HesapMakinasi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day23_Review/Dog.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day25_Random_Math_Date_Classes/C07_DateTimeClass.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2r5G3aHkRDDD0YtZeaHD8q0uxYn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -130,6 +154,7 @@
     "Application.C01_MyFirstProgram.executor": "Run",
     "Application.C01_NestedForLoops.executor": "Run",
     "Application.C01_PrimitiveDataTypes.executor": "Run",
+    "Application.C01_RandomNumbers.executor": "Run",
     "Application.C01_SayHi.executor": "Run",
     "Application.C01_Variables.executor": "Run",
     "Application.C01_WhileLoops.executor": "Run",
@@ -144,8 +169,10 @@
     "Application.C02_Loop1.executor": "Run",
     "Application.C02_MethodCalling.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
+    "Application.C02_RandomPractice.executor": "Run",
     "Application.C02_SwitchIntro.executor": "Run",
     "Application.C02_Task_1.executor": "Run",
+    "Application.C02_UserInputs.executor": "Run",
     "Application.C02_VeriablePractice.executor": "Run",
     "Application.C02_WhileLoops.executor": "Run",
     "Application.C02_WideningCasting.executor": "Run",
@@ -161,6 +188,8 @@
     "Application.C03_MethodsWithParameters.executor": "Run",
     "Application.C03_NameOfMonth.executor": "Run",
     "Application.C03_NarrowingCasting.executor": "Run",
+    "Application.C03_NumberPicker.executor": "Run",
+    "Application.C03_SayilarinOrtalamasi.executor": "Run",
     "Application.C03_StringConcatenation.executor": "Run",
     "Application.C03_SwitchWeekDays.executor": "Run",
     "Application.C03_Task_1.executor": "Run",
@@ -174,6 +203,7 @@
     "Application.C04_ClassTask.executor": "Run",
     "Application.C04_ConcatenationTask.executor": "Run",
     "Application.C04_DebuggingMethod.executor": "Debug",
+    "Application.C04_Dice.executor": "Run",
     "Application.C04_Example03.executor": "Run",
     "Application.C04_HesapMakinasi.executor": "Run",
     "Application.C04_KalansizBolunenler.executor": "Run",
@@ -192,9 +222,11 @@
     "Application.C05_EvenlyDivisible.executor": "Run",
     "Application.C05_Example04.executor": "Run",
     "Application.C05_Initials.executor": "Run",
+    "Application.C05_MathClass.executor": "Run",
     "Application.C05_MethodInLoop.executor": "Debug",
     "Application.C05_MethodsTasks.executor": "Run",
     "Application.C05_NestedIf_ClassTask.executor": "Run",
+    "Application.C05_ScannerFromTxtFile.executor": "Run",
     "Application.C05_ScannerTask.executor": "Run",
     "Application.C05_ShortHandOperators.executor": "Run",
     "Application.C05_SwappingTwoNumbers.executor": "Run",
@@ -218,6 +250,7 @@
     "Application.C07_CheckNumbers.executor": "Run",
     "Application.C07_ClassTask3.executor": "Run",
     "Application.C07_DataTypesHomework.executor": "Run",
+    "Application.C07_DateTimeClass.executor": "Run",
     "Application.C07_ForLoop_4.executor": "Run",
     "Application.C07_HomeWork.executor": "Run",
     "Application.C07_NestedTernary.executor": "Run",
@@ -225,12 +258,14 @@
     "Application.C07_RelationalOperators.executor": "Run",
     "Application.C07_SayiTahminOyunu_2.executor": "Run",
     "Application.C07_ScannerTask2.executor": "Run",
+    "Application.C07_ScannerWithPattern.executor": "Run",
     "Application.C07_String.executor": "Run",
     "Application.C07_SwitchCaseBankMenu.executor": "Run",
     "Application.C07_Triangle.executor": "Run",
     "Application.C07_odevTekrari.executor": "Run",
     "Application.C07_taslakOdev.executor": "Run",
     "Application.C08_DinamikLoop.executor": "Run",
+    "Application.C08_DogumGunu.executor": "Run",
     "Application.C08_EgualNumbers.executor": "Run",
     "Application.C08_Example07.executor": "Run",
     "Application.C08_FlightTicket.executor": "Run",
@@ -284,16 +319,16 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="C01_DebuggingMethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C01_DebuggingMethodCall" />
+  <component name="RunManager" selected="Application.C07_DateTimeClass">
+    <configuration name="C03_NumberPicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Classes.C03_NumberPicker" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Google" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C03_Google" />
+    <configuration name="C04_Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Classes.C04_Dice" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_HesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.C04_HesapMakinasi" />
+    <configuration name="C05_MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Classes.C05_MathClass" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,12 +362,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.DogTest" />
+    <configuration name="C07_DateTimeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Classes.C07_DateTimeClass" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day23_Review.Main" />
+    <configuration name="C08_DogumGunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25_Random_Math_Date_Classes.C08_DogumGunu" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day23_Review.*" />
+          <option name="PATTERN" value="day25_Random_Math_Date_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DogTest" />
-        <item itemvalue="Application.C01_DebuggingMethodCall" />
-        <item itemvalue="Application.C04_HesapMakinasi" />
-        <item itemvalue="Application.C03_Google" />
+        <item itemvalue="Application.C07_DateTimeClass" />
+        <item itemvalue="Application.C08_DogumGunu" />
+        <item itemvalue="Application.C05_MathClass" />
+        <item itemvalue="Application.C04_Dice" />
+        <item itemvalue="Application.C03_NumberPicker" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739223793447</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit day 23">
+      <option name="closed" value="true" />
+      <created>1739304381103</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739304381103</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +571,8 @@
     <MESSAGE value="commit day 20" />
     <MESSAGE value="commit day 21" />
     <MESSAGE value="commit day 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 22" />
+    <MESSAGE value="commit day 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,11 +581,6 @@
           <url>file://$PROJECT_DIR$/src/day08_Assignment_Relational_Logical_Operators/C06_SayiTerstenOlusturma.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day23_Review/C01_DebuggingMethodCall.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day19_Methods1/C04_DebuggingMethod.java</url>
