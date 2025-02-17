@@ -27,6 +27,34 @@ public class C03_NumberPicker {
             }
         }
 
+        System.out.println("-----------------------------------");
+
+        //konsoldan bir sayi veriniz ve max 3 tahminde bunu random da bulmasini isteyiniz.
+        // bulamazsa üzgünüm dogru tahmin edemediniz! desin...
+
+        Scanner sc = new Scanner(System.in);
+        Random random1 = new Random();
+        System.out.print("1 ila 10 arasinda bir sayi secin : ");
+        int sayi = sc.nextInt();
+
+        int deneme = 0;
+        int denemeHakki = 3;
+        int rastGeleSayi;
+
+        do {
+            rastGeleSayi = random.nextInt(10)+1;
+            deneme++;
+            System.out.println("Uretilen sayi : "+rastGeleSayi);
+
+            if (rastGeleSayi == sayi){
+                System.out.println("Tebrikler ! Sayiniz "+deneme+". denemede bulundu.");
+                return;
+            }
+        }while (deneme < denemeHakki);
+
+        System.out.println("Uzgunum, "+denemeHakki+" denemede sayinizi bulamadim...");
+
+
 
 
     }

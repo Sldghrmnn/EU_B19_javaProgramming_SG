@@ -2,9 +2,9 @@ package day22_ClassObject;
 
 public class Car {
 
-    String marka;
-    String model;
-    String renk;
+   public String marka;
+   public String model;
+   public String renk;
     double hiz;
 
     public void calistir(){

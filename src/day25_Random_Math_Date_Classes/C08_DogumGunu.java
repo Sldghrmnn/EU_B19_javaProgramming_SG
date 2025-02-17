@@ -11,4 +11,5 @@ public class C08_DogumGunu {
         DayOfWeek dogumGunu = dogumTarihi.getDayOfWeek();
         System.out.println("Dogdugunuz gun = "+dogumGunu);
     }
+
 }
