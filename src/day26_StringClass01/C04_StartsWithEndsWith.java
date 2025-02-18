@@ -3,7 +3,8 @@ package day26_StringClass01;
 public class C04_StartsWithEndsWith {
     public static void main(String[] args) {
 
-        // her iki method'da boolean cevirir
+        // her iki method'da boolean deger cevirir
+        // startsWith---endsWith
         String str = "Hersey cok guzel";
         System.out.println("str.startsWith(\"H\") = " + str.startsWith("H"));
         System.out.println("str.startsWith(\"h\") = " + str.startsWith("h"));

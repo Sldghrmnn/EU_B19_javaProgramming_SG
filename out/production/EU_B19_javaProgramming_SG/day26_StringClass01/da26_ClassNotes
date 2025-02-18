@@ -1,26 +1,25 @@
 day26 String class
 
-String class---java'da temel bir class'dir ve birden fazla karakterin birlesiminden olusur
-Daha cok text datalarin manipule edilmesinde kullanilir
+    String class -- java temel bir classtır ve birden fazla karakterin birleşiminden oluşur
+    Daha çok text dataların manipule edilmesinde kullanılır
 
+   concat():  String concatination -- Stringleri birleştirir + operatoru ile aynı işlevi görür
 
-concat(): String concatination--Stringleri birlestirir + operatoru ile ayni islevi gorur
+   length() :  Methodu String in uzunluğunu verir
 
+   Stringlerde karşılaştırma
 
-length(): Methodu String in uzunlugunu verir
+   equals() veya equalsIgnoreCase(): methodları metinlerin içeriğinin eşitliğini kontrol eder
 
-Stringlerde karsilastirma
+   toLowerCase() ve toUpperCase() : Metnin tamamını Küçük harfe veya büyük harfe çevirir
 
-equals() veya equalsIgnoreCase(): methodlari metinlerin iceriginin esitligini kontrol eder
+   trim() : Metnin başındaki ve sonundaki boşlukları atar
 
-toLowerCase() ve toUpperCase(): metnin tamamini kucuk harfe veya buyuk harfe cevirir
+   replace(): Metin içerisindeki bir Char Sequence'i başka bir char sequence ile değiştirir
 
-trim(): metnin basindaki ve sonun daki bosluklari atar
+   charAt(): index numarası ile bize o indexdeki char'i verir
 
-reeplace(): metin icerisindeki bir Char Sequence 'i baska bir char sequence ile degistirir
+   inexOf(): Metin içerisindeki herhangi bir harfin ilk indexini verir
 
-charAt(): index numaarasi ile bize o indexdeki char'i verir
+   lastIndexOf(): Metin içerisindeki herhangi bir harfın son indexini verir
 
-indexOf(): metin icerisindeki herhangi bor harfin ilk indexini verir
-
-lastIndexOf(): metin icerisindeki herhangi bir harfin son indexini verir

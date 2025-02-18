@@ -15,9 +15,9 @@ day26 String class
 
    trim() : Metnin başındaki ve sonundaki boşlukları atar
 
-   replace(): Metin içerisindeki bir Char Sequence i başka bir char sequence ile değiştirir
+   replace(): Metin içerisindeki bir Char Sequence'i başka bir char sequence ile değiştirir
 
-   charAt(): index numarası ile bize o indexdeki char i verir
+   charAt(): index numarası ile bize o indexdeki char'i verir
 
    inexOf(): Metin içerisindeki herhangi bir harfin ilk indexini verir
 

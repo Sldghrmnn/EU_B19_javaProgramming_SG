@@ -23,7 +23,7 @@ public class C02_StringMethods {
         System.out.println("-------------------------------------------");
 
         //charAt()  //P H Y T O N
-        //            0 1 2 3 4 5
+        //            0 1 2 3 4 5     charAt index verir ve index 0 dan baslar!!!
 
         System.out.println("programlamaDili.charAt(1) = " + programlamaDili.charAt(1));
         System.out.println("programlamaDili.charAt(1) = " + programlamaDili.charAt(5));
@@ -35,17 +35,18 @@ public class C02_StringMethods {
         System.out.println("programlamaDili.length() = " + programlamaDili.length());
         System.out.println("programlamaDili.charAt(6) = " + programlamaDili.charAt(6));
 
+
         programlamaDili = "PHYTON";
        // System.out.println("programlamaDili.charAt(-1) = " + programlamaDili.charAt(-1));//StringIndexOutOfBoundsException
 
         System.out.println("-----------------------------------------");
 
-        //concat()
+        //concat()     2 string'i birbirine baglar(ekler)-toplama gibi! metinleri birlestirir...
         System.out.println("programlamaDili = " + programlamaDili);
         System.out.println(programlamaDili+" Programlama Dili " );
         System.out.println("programlamaDili.concat(\"Programlama Dili\") = " + programlamaDili.concat("Programlama Dili"));
         String dil = "Programlama Dili";
-        System.out.println("programlamaDili.concat(dil) = " + programlamaDili.concat(" ".concat(dil)));
+        System.out.println("programlamaDili.concat(dil) = " + programlamaDili.concat(" "+dil));
 
         System.out.println("-----------------------------------------------");
 
@@ -70,20 +71,21 @@ public class C02_StringMethods {
         System.out.println("programlamaDili = " + programlamaDili);
         System.out.println("programlamaDili.charAt(programlamaDili.length()-1) = " + programlamaDili.charAt(programlamaDili.length() - 1));
 
+
         System.out.println("---------------------------------------------------");
 
-        //replace() --------"   Phyton Programlama Dili   "
+        //replace() --------"   Phyton Programlama Dili   "---istedigim her metni baska bir akisla degistirebilirz
         System.out.println("programlamaDili = " + programlamaDili);
-        System.out.println("programlamaDili.replace(\" \",\" \") = " + programlamaDili.replace(" ", " "));
+        System.out.println("programlamaDili.replace(\" \",\" \") = " + programlamaDili.replace(" ", ""));
         System.out.println("programlamaDili.replace(\"P\",\"a\") = " + programlamaDili.replace("P", "a"));
 
-        programlamaDili=programlamaDili.replace(" ","");
+        programlamaDili=programlamaDili.replace(" ",""); //target i replacement ile degistir!
         System.out.println("programlamaDili = " + programlamaDili);
         System.out.println("programlamaDili.replace(\"Phyton\",\"Java\") = " + programlamaDili.replace("Phyton", "Java"));
 
         System.out.println("--------------------------------------------------------");
 
-        //indexOf(),lastIndexOf()
+        //indexOf(),lastIndexOf() ilk basladigi yeri yakalar--son kullanilan yeri yakalar
 
         System.out.println("programlamaDili = " + programlamaDili);
 
@@ -93,16 +95,15 @@ public class C02_StringMethods {
 
         System.out.println("------------------------------------------------------------");
 
-        //
         System.out.println("programlamaDili = " + programlamaDili);
         System.out.println(programlamaDili.length());
-        System.out.println(programlamaDili.indexOf(programlamaDili.charAt(programlamaDili.length() / 2)));
+        System.out.println(programlamaDili.indexOf(programlamaDili.charAt(programlamaDili.length() / 2)));// bu bize dogruyu vermiyor.
 
         //equals()
         String str1 ="hello";
         String str2 ="hello";
         String str3 = new String("Hello");
-        String str4 = new String("Hello");
+        String str4 = new String("HELLO");
 
         System.out.println(str1 == str2);
 

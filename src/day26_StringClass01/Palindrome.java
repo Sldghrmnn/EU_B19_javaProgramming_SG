@@ -10,21 +10,15 @@ public class Palindrome {
         kullanicidan bir metin alin, metin palindrome ise true degilse false yazdirin....
          */
 
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Bir metin giriniz ve Palindrom olup olmadigini kontrol edelim... ");
-        String metin = sc.nextLine();
+        String kelime="anastas mum satsana";
+        String terstenKelime="";
 
-        String tersMetin ="";
-
-        for (int i = metin.length()-1; i >=0 ; i--) {
-            tersMetin += metin.charAt(i);
+        for (int i = kelime.length()-1; i >=0 ; i--) {
+            terstenKelime=terstenKelime.concat(kelime.substring(i,i+1));
         }
-        System.out.println("tersMetin = " + tersMetin);
-        boolean palindromMu = metin.equals(tersMetin);
+        boolean palindromMu=terstenKelime.equals(kelime);
 
         System.out.println("palindromMu = " + palindromMu);
-
-        sc.close();
 
     }
 }
