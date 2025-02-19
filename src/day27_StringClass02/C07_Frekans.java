@@ -1,4 +1,4 @@
-package day27_StringClass2;
+package day27_StringClass02;
 
 import java.util.Scanner;
 

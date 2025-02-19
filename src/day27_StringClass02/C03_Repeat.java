@@ -1,4 +1,4 @@
-package day27_StringClass2;
+package day27_StringClass02;
 
 public class C03_Repeat {
     public static void main(String[] args) {

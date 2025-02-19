@@ -1,6 +1,4 @@
-package day27_StringClass2;
-
-import java.util.Locale;
+package day27_StringClass02;
 
 public class C10_KarakterSayisi {
     public static void main(String[] args) {

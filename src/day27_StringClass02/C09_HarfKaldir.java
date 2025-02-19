@@ -1,4 +1,4 @@
-package day27_StringClass2;
+package day27_StringClass02;
 
 public class C09_HarfKaldir {
     public static void main(String[] args) {
