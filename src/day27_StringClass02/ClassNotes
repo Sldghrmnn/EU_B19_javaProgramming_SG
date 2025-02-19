@@ -1,0 +1,34 @@
+ 1. soru
+
+
+//Kullanıcın girdiği bir kelimenin 2. yarısını
+// döndüren bir program yazdırın.
+//Sanayagı yagı Mutluluk uluk
+
+
+
+2. soru
+//Kullanıcıdan bir kelime , değiştirmek istediği harfi/harfleri ve
+// yeni harfi/harfleri alan ve buna göre kelimede/dizede sadece
+// ilk bulduğu yeri değiştiren metodu yazınız.
+//(Merhaba ,a, e) Merheba (Kasaba , a, i) Kisaba
+
+
+
+3. soru
+//Kullanıcıdan bir kelime alın ve her harfini 3 defa yazdırın.
+//Merhaba MMMeeerrrhhhaaabbbaaa Ali AAAllliii
+
+
+4. soru
+// Bir String ve bir index numarası alan substring metodunu yazınız
+// "Merhaba" substring(str, 3)=haba
+// subString(String str,int index)
+
+
+5.soru
+
+//trim(String str) şeklinde bir metot yazın trim gibi çalışsın
+// ve string döndürsün. İçerisinde string in hazır metodu
+// olan trim metodunu kullanmayın.
+// " harun merhaba nasılsın "
