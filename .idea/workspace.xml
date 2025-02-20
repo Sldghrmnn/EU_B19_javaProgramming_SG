@@ -4,38 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 27">
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C01_Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C02_RandomPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C03_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C04_WithoutEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C05_MiddleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C06_HomeWorks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C07_FindDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/ClassNotestxt" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 28">
+      <change afterPath="$PROJECT_DIR$/src/day28_StringReview/C08_HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C01_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C02_ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C03_StackOverFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C04_HeapOverFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C05_Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C06_VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day26_StringClass01/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day26_StringClass01/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C01_TwoString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C02_Replace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C03_Repeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C04_Empty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C05_EmailDomain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C06_BoslukDoldur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C07_Frekans.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C08_UniqChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C09_HarfKaldir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day27_StringClass2/C10_KarakterSayisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C01_TwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C01_TwoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C02_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C02_Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C03_Repeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C03_Repeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C04_Empty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C04_Empty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C05_EmailDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C05_EmailDomain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C06_BoslukDoldur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C06_BoslukDoldur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C07_Frekans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C07_Frekans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C08_UniqChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C08_UniqChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C09_HarfKaldir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C09_HarfKaldir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/C10_KarakterSayisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/C10_KarakterSayisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_StringClass2/ClassNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_StringClass02/ClassNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day28_StringReview/C01_Birthday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day28_StringReview/C01_Birthday.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_StringReview/C01_Birthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_StringReview/C01_Birthday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_StringReview/ClassNotestxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_StringReview/ClassNotestxt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +117,7 @@
     <setting file="file://$PROJECT_DIR$/src/day28_StringReview/C05_MiddleTwo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day28_StringReview/C06_HomeWorks.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day28_StringReview/C07_FindDuplicates.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day29_Memory_GarabageCollection/C03_StackOverFlow.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -160,6 +141,7 @@
     "Application.C01_MyFirstProgram.executor": "Run",
     "Application.C01_NestedForLoops.executor": "Run",
     "Application.C01_PrimitiveDataTypes.executor": "Run",
+    "Application.C01_Product.executor": "Run",
     "Application.C01_RandomNumbers.executor": "Run",
     "Application.C01_SayHi.executor": "Run",
     "Application.C01_Variables.executor": "Run",
@@ -175,6 +157,7 @@
     "Application.C02_Loop1.executor": "Run",
     "Application.C02_MethodCalling.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
+    "Application.C02_ProductTest.executor": "Run",
     "Application.C02_RandomPassword.executor": "Run",
     "Application.C02_RandomPractice.executor": "Run",
     "Application.C02_StringMethods.executor": "Run",
@@ -200,6 +183,7 @@
     "Application.C03_NumberPicker.executor": "Run",
     "Application.C03_Reverse.executor": "Run",
     "Application.C03_SayilarinOrtalamasi.executor": "Run",
+    "Application.C03_StackOverFlow.executor": "Run",
     "Application.C03_StringConcatenation.executor": "Run",
     "Application.C03_SwitchWeekDays.executor": "Run",
     "Application.C03_Task_1.executor": "Run",
@@ -216,6 +200,7 @@
     "Application.C04_Dice.executor": "Run",
     "Application.C04_Empty.executor": "Run",
     "Application.C04_Example03.executor": "Run",
+    "Application.C04_HeapOverFlow.executor": "Run",
     "Application.C04_HesapMakinasi.executor": "Run",
     "Application.C04_KalansizBolunenler.executor": "Run",
     "Application.C04_Rectangle.executor": "Run",
@@ -264,6 +249,7 @@
     "Application.C06_SayininRakamlariToplami.executor": "Run",
     "Application.C06_ScannerTaskCont.executor": "Run",
     "Application.C06_Triangle.executor": "Run",
+    "Application.C06_VehicleTest.executor": "Run",
     "Application.C06_odev.executor": "Run",
     "Application.C07_CheckNumbers.executor": "Run",
     "Application.C07_ClassTask3.executor": "Run",
@@ -291,6 +277,7 @@
     "Application.C08_Example07.executor": "Run",
     "Application.C08_FlightTicket.executor": "Run",
     "Application.C08_HierarchicalMethodCall.executor": "Run",
+    "Application.C08_HomeWork.executor": "Run",
     "Application.C08_HomeWorkdevam.executor": "Run",
     "Application.C08_IfBeden.executor": "Run",
     "Application.C08_LogicalAND.executor": "Run",
@@ -347,13 +334,13 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C01_Birthday">
-    <configuration name="C01_Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_StringReview.C01_Birthday" />
+  <component name="RunManager" selected="Application.C06_VehicleTest">
+    <configuration name="C01_Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Memory_GarabageCollection.C01_Product" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_StringReview.*" />
+          <option name="PATTERN" value="day29_Memory_GarabageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_StringReview.C03_Reverse" />
+    <configuration name="C02_ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Memory_GarabageCollection.C02_ProductTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_StringReview.*" />
+          <option name="PATTERN" value="day29_Memory_GarabageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_WithoutEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_StringReview.C04_WithoutEnd" />
+    <configuration name="C03_StackOverFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Memory_GarabageCollection.C03_StackOverFlow" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_StringReview.*" />
+          <option name="PATTERN" value="day29_Memory_GarabageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_MiddleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_StringReview.C05_MiddleTwo" />
+    <configuration name="C04_HeapOverFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Memory_GarabageCollection.C04_HeapOverFlow" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_StringReview.*" />
+          <option name="PATTERN" value="day29_Memory_GarabageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_HomeWorks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_StringReview.C06_HomeWorks" />
+    <configuration name="C06_VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Memory_GarabageCollection.C06_VehicleTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_StringReview.*" />
+          <option name="PATTERN" value="day29_Memory_GarabageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,11 +402,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_Birthday" />
-        <item itemvalue="Application.C03_Reverse" />
-        <item itemvalue="Application.C04_WithoutEnd" />
-        <item itemvalue="Application.C05_MiddleTwo" />
-        <item itemvalue="Application.C06_HomeWorks" />
+        <item itemvalue="Application.C06_VehicleTest" />
+        <item itemvalue="Application.C04_HeapOverFlow" />
+        <item itemvalue="Application.C03_StackOverFlow" />
+        <item itemvalue="Application.C02_ProductTest" />
+        <item itemvalue="Application.C01_Product" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +587,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739911938901</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit day 28">
+      <option name="closed" value="true" />
+      <created>1740004768892</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740004768892</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit day 28">
+      <option name="closed" value="true" />
+      <created>1740004782160</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1740004782160</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -632,7 +635,8 @@
     <MESSAGE value="commit day 25" />
     <MESSAGE value="commit day 26" />
     <MESSAGE value="commit day 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 27" />
+    <MESSAGE value="commit day 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

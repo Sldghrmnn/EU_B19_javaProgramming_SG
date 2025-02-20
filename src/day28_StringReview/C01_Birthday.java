@@ -7,14 +7,13 @@ import java.util.Scanner;
 
 public class C01_Birthday {
     public static void main(String[] args) {
-        // dogum gununuzu belirtilen formata girdiginizde
-        //haftanin hangi gunu(montag bis sonntag)dogdugunuzu gosteren kodu yaziniz
+        //Doğum gününüzü belirtilen formata göre girdiğinizde
+        //Haftanın hangi günü (Monday-Sunday) doğduğunuzu gösteren kodu yazınız.
 
-        System.out.println("Dogum gununuzu yyyy-MM-dd formatinda giriniz : ");
+        System.out.println("Doğum gününüzü yyyy-MM-dd formatında giriniz : ");
         Scanner sc = new Scanner(System.in);
 
         String dateStr = sc.nextLine();
-
 
         // direkt herhangi bir tarihi girme
         LocalDate now = LocalDate.now(); //şimdi
@@ -54,6 +53,5 @@ public class C01_Birthday {
         System.out.println("Your birthday "+ dateStr + " is on "+dayOfWeek);
 
         System.out.println("------------------------");
-
     }
 }
