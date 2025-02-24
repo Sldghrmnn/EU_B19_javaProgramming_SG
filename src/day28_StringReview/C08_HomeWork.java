@@ -1,5 +1,7 @@
 package day28_StringReview;
 
+import java.util.HashSet;
+
 public class C08_HomeWork {
     public static void main(String[] args) {
 
@@ -15,6 +17,15 @@ public class C08_HomeWork {
         System.out.println("zerosCount(\"100000000001\") = " + zerosCount("100000000001"));
         System.out.println("zerosCount(\"10001\") = " + zerosCount("10001"));
         System.out.println("---------------------------------");
+        String str1 = "abcabcbb";
+        System.out.println(enUzunTekrariOlmayan(str1)); //3
+        String str2 = "bbbbb";
+        System.out.println(enUzunTekrariOlmayan(str2)); //1
+        String str3 = "pwwkew";
+        System.out.println(enUzunTekrariOlmayan(str3)); //3
+        String str4 = "pwrwkew";
+        System.out.println(enUzunTekrariOlmayan(str4)); //4
+
 
 
     }
@@ -64,6 +75,8 @@ public class C08_HomeWork {
             }
         }
         return count;
+
+
     }
     /*
      * Given a string s, find the length of the longest
@@ -89,4 +102,20 @@ public class C08_HomeWork {
      * Output: 4
      * Explanation: The answer is "rwke", with the length of 3.
      */
+
+    public static int enUzunTekrariOlmayan(String str){
+        String bulunan ="";   // tekrarsiz karakterleri  saklayacak gecisi String
+        int maxUzunluk = 0;
+
+        for (char karakter : str.toCharArray()) {
+            while (bulunan.contains(String.valueOf(karakter))){
+                bulunan = bulunan.substring(1);  // bastan karkteri sil
+            }
+            bulunan += karakter;   // yeni karakteri ekle
+            maxUzunluk = Math.max(maxUzunluk,bulunan.length());
+        }
+        return maxUzunluk;
+    }
+
+
 }
