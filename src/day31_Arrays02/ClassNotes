@@ -1,0 +1,19 @@
+Bir method yazın ve int[] kabul etsin. length i 5 den büyükse true döndürsün.
+
+Bir method yazın int array kabul etsin array in içinde 5 olup olmadığını kontrol etsin.
+
+Bir method yazın ve 2 array kabul etsin ilk elemanları eşitse true döndürsün.
+
+Verilen 2 arrayi birleştirip array döndüren bir method yazın.
+
+İnt arry in en büyük elemanının döndüren bir method yazın
+
+Bir array oluşturun ve ilk ve son element leri swap(yer değiştirme) yapın.
+
+2 array kabul eden bir method yazın ve arraylerin llk elemanları ile yeni bir array döndürsün.
+
+Bir method yazın ve verilen arry in elemanlarını tersden sıralayıp yeni bir array döndürsün.
+
+Bir methodla verilen array ın teksayı indexinde bulunan elemanların toplamını alın.
+
+İnt array ın elemanlarının toplamını ve çarpımını yeni bir array içinde döndüren bir method yazın

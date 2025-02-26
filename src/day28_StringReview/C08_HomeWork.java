@@ -18,14 +18,13 @@ public class C08_HomeWork {
         System.out.println("zerosCount(\"10001\") = " + zerosCount("10001"));
         System.out.println("---------------------------------");
         String str1 = "abcabcbb";
-        System.out.println(enUzunTekrariOlmayan(str1)); //3
+        System.out.println("longestSubstringWithoutRepeat(\"abcabcbb\") = " + longestSubstringWithoutRepeat("abcabcbb"));
         String str2 = "bbbbb";
-        System.out.println(enUzunTekrariOlmayan(str2)); //1
+        System.out.println("longestSubstringWithoutRepeat( \"bbbbb\") = " + longestSubstringWithoutRepeat("bbbbb"));
         String str3 = "pwwkew";
-        System.out.println(enUzunTekrariOlmayan(str3)); //3
+        System.out.println("longestSubstringWithoutRepeat(\"pwwkew\") = " + longestSubstringWithoutRepeat("pwwkew"));
         String str4 = "pwrwkew";
-        System.out.println(enUzunTekrariOlmayan(str4)); //4
-
+        System.out.println("longestSubstringWithoutRepeat(\"pwrwkew\") = " + longestSubstringWithoutRepeat("pwrwkew"));
 
 
     }
@@ -102,20 +101,22 @@ public class C08_HomeWork {
      * Output: 4
      * Explanation: The answer is "rwke", with the length of 3.
      */
-
-    public static int enUzunTekrariOlmayan(String str){
-        String bulunan ="";   // tekrarsiz karakterleri  saklayacak gecisi String
-        int maxUzunluk = 0;
-
-        for (char karakter : str.toCharArray()) {
-            while (bulunan.contains(String.valueOf(karakter))){
-                bulunan = bulunan.substring(1);  // bastan karkteri sil
-            }
-            bulunan += karakter;   // yeni karakteri ekle
-            maxUzunluk = Math.max(maxUzunluk,bulunan.length());
-        }
-        return maxUzunluk;
-    }
+      public static int longestSubstringWithoutRepeat(String str){
+          String result = "";
+          int max = 0;
+          for (int i = 0; i < str.length(); i++) {
+              result = str.substring(i,i+1);
+              for (int j = i+1; j < str.length(); j++) {
+                  if ( ! result.contains(str.substring(j,j+1))){
+                      result += str.substring(j,j+1);
+                  }else{
+                      break;
+                  }
+                  max = Math.max(max,result.length());
+              }
+          }
+          return max;
+      }
 
 
 }

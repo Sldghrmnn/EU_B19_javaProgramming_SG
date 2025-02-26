@@ -59,7 +59,7 @@ public class C11_ArraysToString {
         return result;
     }
 
-    public static String toString(byte [] arr){ // method overloading --- same name, different parameter
+    public static String toString(byte [] arr){ // method overloading --- ayni ad ,farkli parametre
         String result="[";
         for (int i = 0; i < arr.length; i++) {
             if (i== arr.length-1){
