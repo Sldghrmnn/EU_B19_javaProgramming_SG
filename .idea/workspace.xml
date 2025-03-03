@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 32">
-      <change afterPath="$PROJECT_DIR$/src/day32_MultiDimensionalArrays/ThreeDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C00_ObjectArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C01_RaggedArraySentencesAndWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C02_Fix23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C03_ReverseArrayWithThreeElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C04_SumTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C05_Front11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C06_SumEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C07_ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C08_Without10_HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C09_FindPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C10_MissingOddNummer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C11_EvenOdd.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 33">
+      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C12_tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C02_WrapperParseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C03_ScannerInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C05_WrapperLetterIsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C06_Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day09_Review/C01_FirstMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day09_Review/C01_FirstMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day32_MultiDimensionalArrays/C01_TwoDimensionalArrayExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day32_MultiDimensionalArrays/C01_TwoDimensionalArrayExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day32_MultiDimensionalArrays/C02_TwoDimArrayPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day32_MultiDimensionalArrays/C02_TwoDimArrayPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_Review/C01_FirstMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_Review/C01_FirstMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31_Arrays02/C10_HomeWork_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_Arrays02/C10_HomeWork_Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +140,8 @@
     <setting file="file://$PROJECT_DIR$/src/day33_ReviewArray/C06_SumEvenNumbers.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day33_ReviewArray/C08_Without10_HomeWork.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day33_ReviewArray/C09_FindPalindromes.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -183,6 +174,7 @@
     "Application.C01_TwoDimensionalArrayExample1.executor": "Run",
     "Application.C01_Variables.executor": "Run",
     "Application.C01_WhileLoops.executor": "Run",
+    "Application.C01_WrapperClasses.executor": "Run",
     "Application.C02_BuyukSayi.executor": "Run",
     "Application.C02_ClassTask.executor": "Run",
     "Application.C02_CustomMethodpractice.executor": "Run",
@@ -275,6 +267,7 @@
     "Application.C05_SwitchCaseExamplee.executor": "Run",
     "Application.C05_TekCiftTopla.executor": "Run",
     "Application.C05_VeriableTypes.executor": "Run",
+    "Application.C05_WrapperLetterIsMethods.executor": "Run",
     "Application.C06_Cube.executor": "Run",
     "Application.C06_Example05.executor": "Run",
     "Application.C06_Faktoriyel.executor": "Run",
@@ -387,13 +380,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C10_HomeWork_Arrays">
-    <configuration name="C01_FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_Review.C01_FirstMain" />
+  <component name="RunManager" selected="Application.C06_Example">
+    <configuration name="C01_WrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C01_WrapperClasses" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_Review.*" />
+          <option name="PATTERN" value="day34_WrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +394,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_ReviewArray.C07_ReverseArray" />
+    <configuration name="C05_WrapperLetterIsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C05_WrapperLetterIsMethods" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33_ReviewArray.*" />
+          <option name="PATTERN" value="day34_WrapperClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C06_Example" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_WrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -440,26 +446,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_ReviewArray.C11_EvenOdd" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day33_ReviewArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_Example" />
+        <item itemvalue="Application.C05_WrapperLetterIsMethods" />
+        <item itemvalue="Application.C01_WrapperClasses" />
         <item itemvalue="Application.C10_HomeWork_Arrays" />
         <item itemvalue="Application.C08_Without10_HomeWork" />
-        <item itemvalue="Application.C11_EvenOdd" />
-        <item itemvalue="Application.C07_ReverseArray" />
-        <item itemvalue="Application.C01_FirstMain" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +681,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740603511824</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="commit day 33">
+      <option name="closed" value="true" />
+      <created>1740956537201</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740956537201</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit day 33">
+      <option name="closed" value="true" />
+      <created>1740956551440</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740956551440</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -724,7 +733,8 @@
     <MESSAGE value="commit day 29" />
     <MESSAGE value="commit day 30" />
     <MESSAGE value="commit day 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 32" />
+    <MESSAGE value="commit day 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
