@@ -10,18 +10,18 @@ public class C01_WrapperClasses {
         short sh=12500;
         int i=123;
         long l=12343442332454l;
-        float ft=1232321.4444f;
+        float fl=1232321.4444f;
         double db=23454567123456712345345.33333;
-        char c='A';
+        char ch='A';
 
         System.out.println("bl = " + bl);
         System.out.println("by = " + by);
         System.out.println("sh = " + sh);
         System.out.println("i = " + i);
         System.out.println("l = " + l);
-        System.out.println("ft = " + ft);
+        System.out.println("fl = " + fl);
         System.out.println("db = " + db);
-        System.out.println("c = " + c);
+        System.out.println("ch = " + ch);
 
 
         //wrapper Classes

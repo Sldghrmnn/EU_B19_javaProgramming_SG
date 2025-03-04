@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 33">
-      <change afterPath="$PROJECT_DIR$/src/day33_ReviewArray/C12_tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C02_WrapperParseMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C03_ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C05_WrapperLetterIsMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C06_Example.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 34">
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C01_ArrayListIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C02_Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C03_Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C04_AddAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C05_Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C06_EqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C07_RemoveAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C09_Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day34_WrapperClasses/C01_WrapperClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day34_WrapperClasses/C01_WrapperClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +145,10 @@
     <setting file="file://$PROJECT_DIR$/src/day33_ReviewArray/C08_Without10_HomeWork.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day33_ReviewArray/C09_FindPalindromes.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C02_WrapperParseMethods.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C03_ScannerInput.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C05_WrapperLetterIsMethods.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -157,6 +164,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.C01_ArithmeticOperators.executor": "Run",
+    "Application.C01_ArrayListIntro.executor": "Run",
     "Application.C01_ArraysIntro.executor": "Run",
     "Application.C01_ArtikYil.executor": "Run",
     "Application.C01_Birthday.executor": "Run",
@@ -189,6 +197,7 @@
     "Application.C02_ProductTest.executor": "Run",
     "Application.C02_RandomPassword.executor": "Run",
     "Application.C02_RandomPractice.executor": "Run",
+    "Application.C02_Remove.executor": "Run",
     "Application.C02_StringMethods.executor": "Run",
     "Application.C02_SwitchIntro.executor": "Run",
     "Application.C02_Task_1.executor": "Run",
@@ -197,9 +206,11 @@
     "Application.C02_VeriablePractice.executor": "Run",
     "Application.C02_WhileLoops.executor": "Run",
     "Application.C02_WideningCasting.executor": "Run",
+    "Application.C02_WrapperParseMethods.executor": "Run",
     "Application.C03_Alfabe.executor": "Run",
     "Application.C03_AlternatifYol.executor": "Run",
     "Application.C03_AssignmentOperators.executor": "Run",
+    "Application.C03_Cities.executor": "Debug",
     "Application.C03_ClassTask2.executor": "Run",
     "Application.C03_ErrVSOut.executor": "Run",
     "Application.C03_EscapeChars.executor": "Run",
@@ -221,6 +232,7 @@
     "Application.C03_Task_2.executor": "Run",
     "Application.C03_TernaryOperator.executor": "Run",
     "Application.C03_UniqueNumber.executor": "Debug",
+    "Application.C04_AddAll.executor": "Run",
     "Application.C04_BasamaklaraAyirma.executor": "Run",
     "Application.C04_Break.executor": "Run",
     "Application.C04_Calculator.executor": "Run",
@@ -247,6 +259,7 @@
     "Application.C05_Aylar.executor": "Run",
     "Application.C05_Circle.executor": "Run",
     "Application.C05_ClassTask2.executor": "Run",
+    "Application.C05_Contains.executor": "Run",
     "Application.C05_Continue.executor": "Run",
     "Application.C05_Counter.executor": "Run",
     "Application.C05_EmailDomain.executor": "Run",
@@ -269,6 +282,7 @@
     "Application.C05_VeriableTypes.executor": "Run",
     "Application.C05_WrapperLetterIsMethods.executor": "Run",
     "Application.C06_Cube.executor": "Run",
+    "Application.C06_Example.executor": "Run",
     "Application.C06_Example05.executor": "Run",
     "Application.C06_Faktoriyel.executor": "Run",
     "Application.C06_HaftaninGünleri.executor": "Run",
@@ -320,6 +334,7 @@
     "Application.C08_LogicalAND.executor": "Run",
     "Application.C08_NtimesString.executor": "Run",
     "Application.C08_Rectangle.executor": "Run",
+    "Application.C08_Sort.executor": "Run",
     "Application.C08_UniqChars.executor": "Run",
     "Application.C08_Without10_HomeWork.executor": "Run",
     "Application.C08_dersNotlari.executor": "Run",
@@ -380,13 +395,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C06_Example">
-    <configuration name="C01_WrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C01_WrapperClasses" />
+  <component name="RunManager" selected="Application.C03_Cities">
+    <configuration name="C02_Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C02_Remove" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_WrapperClasses.*" />
+          <option name="PATTERN" value="day35_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_WrapperLetterIsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C05_WrapperLetterIsMethods" />
+    <configuration name="C03_Cities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C03_Cities" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_WrapperClasses.*" />
+          <option name="PATTERN" value="day35_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +422,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_WrapperClasses.C06_Example" />
+    <configuration name="C04_AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C04_AddAll" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_WrapperClasses.*" />
+          <option name="PATTERN" value="day35_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +435,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Without10_HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_ReviewArray.C08_Without10_HomeWork" />
+    <configuration name="C05_Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C05_Contains" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33_ReviewArray.*" />
+          <option name="PATTERN" value="day35_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,12 +448,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_HomeWork_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Arrays02.C10_HomeWork_Arrays" />
+    <configuration name="C08_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C08_Sort" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Arrays02.*" />
+          <option name="PATTERN" value="day35_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,11 +463,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_Example" />
-        <item itemvalue="Application.C05_WrapperLetterIsMethods" />
-        <item itemvalue="Application.C01_WrapperClasses" />
-        <item itemvalue="Application.C10_HomeWork_Arrays" />
-        <item itemvalue="Application.C08_Without10_HomeWork" />
+        <item itemvalue="Application.C03_Cities" />
+        <item itemvalue="Application.C08_Sort" />
+        <item itemvalue="Application.C05_Contains" />
+        <item itemvalue="Application.C04_AddAll" />
+        <item itemvalue="Application.C02_Remove" />
       </list>
     </recent_temporary>
   </component>
@@ -697,7 +712,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740956551440</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit day 34">
+      <option name="closed" value="true" />
+      <created>1741038094119</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1741038094119</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -734,7 +757,8 @@
     <MESSAGE value="commit day 30" />
     <MESSAGE value="commit day 32" />
     <MESSAGE value="commit day 33" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 33" />
+    <MESSAGE value="commit day 34" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 34" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
