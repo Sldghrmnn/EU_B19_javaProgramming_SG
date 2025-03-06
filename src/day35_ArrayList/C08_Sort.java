@@ -19,6 +19,8 @@ public class C08_Sort {
 
         //descending olarak yeni bir array e atayin
 
+
+
         ArrayList<Object> person = new ArrayList<>();
         person.add("Suleyman");
         person.add(1982);

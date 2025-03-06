@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 34">
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C01_ArrayListIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C02_Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C03_Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C04_AddAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C05_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C06_EqualsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C07_RemoveAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_ArrayList/C09_Task.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 35">
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C00_ObjectArrayAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C01_ArrayListReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C02_WrapperClassesReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C03_RemoveInALoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C04_FilterRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C05_EnKucukEnBasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C06_RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C07_BigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Review/C08_SortLetterAndDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Banka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/BankaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Musteri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day34_WrapperClasses/C01_WrapperClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day34_WrapperClasses/C01_WrapperClasses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_WrapperClasses/C01_WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C05_Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C05_Contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C06_EqualsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C06_EqualsMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C07_RemoveAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C07_RemoveAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C08_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C08_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C09_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C09_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +157,15 @@
     <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C03_ScannerInput.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C04_AutoBoxingAndUnboxing.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day34_WrapperClasses/C05_WrapperLetterIsMethods.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C01_ArrayListIntro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C02_Remove.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C03_Cities.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C05_Contains.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C06_EqualsMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C09_Task.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day36_Review/C02_WrapperClassesReview.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Circle.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -163,8 +180,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankaTest.executor": "Run",
+    "Application.C00_ObjectArrayAndArrayList.executor": "Run",
     "Application.C01_ArithmeticOperators.executor": "Run",
     "Application.C01_ArrayListIntro.executor": "Run",
+    "Application.C01_ArrayListReview.executor": "Run",
     "Application.C01_ArraysIntro.executor": "Run",
     "Application.C01_ArtikYil.executor": "Run",
     "Application.C01_Birthday.executor": "Run",
@@ -247,6 +267,7 @@
     "Application.C04_HesapMakinasi.executor": "Run",
     "Application.C04_KalansizBolunenler.executor": "Run",
     "Application.C04_Rectangle.executor": "Run",
+    "Application.C04_RemoveInALoop.executor": "Run",
     "Application.C04_ReturnTheBiggest.executor": "Run",
     "Application.C04_Scanner.executor": "Run",
     "Application.C04_StartsWithEndsWith.executor": "Run",
@@ -266,6 +287,7 @@
     "Application.C05_EscapeCharacters.executor": "Run",
     "Application.C05_EvenlyDivisible.executor": "Run",
     "Application.C05_Example04.executor": "Run",
+    "Application.C05_FilterRange.executor": "Run",
     "Application.C05_Initials.executor": "Run",
     "Application.C05_MathClass.executor": "Run",
     "Application.C05_MethodInLoop.executor": "Debug",
@@ -282,6 +304,7 @@
     "Application.C05_VeriableTypes.executor": "Run",
     "Application.C05_WrapperLetterIsMethods.executor": "Run",
     "Application.C06_Cube.executor": "Run",
+    "Application.C06_EnKucukEnBasa.executor": "Run",
     "Application.C06_Example.executor": "Run",
     "Application.C06_Example05.executor": "Run",
     "Application.C06_Faktoriyel.executor": "Run",
@@ -291,6 +314,7 @@
     "Application.C06_If_ElseIf.executor": "Run",
     "Application.C06_LogicalOperatorsExample.executor": "Run",
     "Application.C06_PracticeWithReturn.executor": "Run",
+    "Application.C06_RemoveDuplicate.executor": "Run",
     "Application.C06_ReverseNumber.executor": "Run",
     "Application.C06_ReverseString.executor": "Run",
     "Application.C06_SayiTerstenOlusturma.executor": "Debug",
@@ -300,6 +324,7 @@
     "Application.C06_VehicleTest.executor": "Run",
     "Application.C06_odev.executor": "Run",
     "Application.C07_ArrayLoop.executor": "Run",
+    "Application.C07_BigInteger.executor": "Run",
     "Application.C07_CheckNumbers.executor": "Run",
     "Application.C07_ClassTask3.executor": "Run",
     "Application.C07_DataTypesHomework.executor": "Run",
@@ -335,6 +360,7 @@
     "Application.C08_NtimesString.executor": "Run",
     "Application.C08_Rectangle.executor": "Run",
     "Application.C08_Sort.executor": "Run",
+    "Application.C08_SortLetterAndDigits.executor": "Run",
     "Application.C08_UniqChars.executor": "Run",
     "Application.C08_Without10_HomeWork.executor": "Run",
     "Application.C08_dersNotlari.executor": "Run",
@@ -377,6 +403,7 @@
     "Application.C19_WhileLoopIkiBasamakli7Bolunen.executor": "Run",
     "Application.C20_whileLoopTamSayilar.executor": "Run",
     "Application.CC07_Example06.executor": "Run",
+    "Application.Circle.executor": "Run",
     "Application.DogTest.executor": "Run",
     "Application.ForLoopContinue.executor": "Run",
     "Application.HomeWork.executor": "Run",
@@ -392,16 +419,21 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editing.templates"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C03_Cities">
-    <configuration name="C02_Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C02_Remove" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day37_Constructor_PassingObjects01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankaTest">
+    <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructor_PassingObjects01.BankaTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_ArrayList.*" />
+          <option name="PATTERN" value="day37_Constructor_PassingObjects01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Cities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C03_Cities" />
+    <configuration name="C00_ObjectArrayAndArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Review.C00_ObjectArrayAndArrayList" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_ArrayList.*" />
+          <option name="PATTERN" value="day36_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,12 +454,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C04_AddAll" />
+    <configuration name="C06_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Review.C06_RemoveDuplicate" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_ArrayList.*" />
+          <option name="PATTERN" value="day36_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +467,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C05_Contains" />
+    <configuration name="C08_SortLetterAndDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Review.C08_SortLetterAndDigits" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_ArrayList.*" />
+          <option name="PATTERN" value="day36_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +480,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_ArrayList.C08_Sort" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructor_PassingObjects01.Circle" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_ArrayList.*" />
+          <option name="PATTERN" value="day37_Constructor_PassingObjects01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,11 +495,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03_Cities" />
-        <item itemvalue="Application.C08_Sort" />
-        <item itemvalue="Application.C05_Contains" />
-        <item itemvalue="Application.C04_AddAll" />
-        <item itemvalue="Application.C02_Remove" />
+        <item itemvalue="Application.BankaTest" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.C06_RemoveDuplicate" />
+        <item itemvalue="Application.C00_ObjectArrayAndArrayList" />
+        <item itemvalue="Application.C08_SortLetterAndDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -720,7 +752,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741038094119</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit day 35">
+      <option name="closed" value="true" />
+      <created>1741123052082</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741123052082</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -758,7 +798,8 @@
     <MESSAGE value="commit day 32" />
     <MESSAGE value="commit day 33" />
     <MESSAGE value="commit day 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 34" />
+    <MESSAGE value="commit day 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 35" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
