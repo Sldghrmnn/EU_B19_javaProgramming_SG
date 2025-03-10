@@ -49,12 +49,57 @@ public class Banka {
 
 
 
+
+     public void findByHesapNo(int hesapNo) {
+         System.out.println("Heaap Numarasi ile Müsteri bulma");
+         System.out.println("--------------------------------");
+
+         boolean isFond = true;
+
+         for (Musteri musteri : musteriler) {
+             if (musteri.hesapNo == hesapNo) {
+                 isFond = false;
+                 musteri.showInfo();
+                 break;
+             }
+         }
+         if (isFond) {
+             System.out.println(hesapNo + " hesap numarali müsteri yotur");
+         }
+
+     }
+
+     public void findByName(String name){
+         System.out.println("Isimden müsteri bulma");
+         System.out.println("---------------------");
+
+         int count = 0;
+         for (Musteri musteri :musteriler ) {
+         	if (musteri.name.startsWith(name)){
+                 count++;
+                 musteri.showInfo();
+                System.out.println("-----------------");
+            }
+         }
+         if (count==0){
+             System.out.println(name+" isminde bir müsteri yoktur");
+         }else {
+             System.out.println(name+" isminde "+count+" adet müstri vardir");
+         }
+
+
+
+     }
+
+
+
+
+
      public void musteriListe(){
         for (Musteri musteri :musteriler ) {
         	musteri.showInfo();
             System.out.println("--------------------------");
-        	}
-
+        }
      }
 
 

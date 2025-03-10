@@ -24,7 +24,7 @@ public class BankaTest {
         System.out.println("banka1.müsteriler.size() = " + banka1.musteriler.size());
 
         Musteri musteri = new Musteri("Alper Falanca","90-316-2343445");
-        Musteri musteri1 = new Musteri("Ayla Albay","90-212-5677689");
+        Musteri musteri1 = new Musteri("Arzu Albay","90-212-5677689");
         Musteri musteri2 = new Musteri("Arzu Unal","49-266-2315455");
         Musteri musteri3 = new Musteri("Selda Simsek","49-216-3672765");
 
@@ -51,6 +51,10 @@ public class BankaTest {
         banka2.paraCek(musteri,123);
 
         banka2.musteriListe();
+
+
+
+
 
 
 

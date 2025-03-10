@@ -4,27 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 35">
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C00_ObjectArrayAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C01_ArrayListReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C02_WrapperClassesReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C03_RemoveInALoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C04_FilterRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C05_EnKucukEnBasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C06_RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C07_BigInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Review/C08_SortLetterAndDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Banka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/BankaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Musteri.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 37">
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/MethodOverloadingReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/OkulTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C05_Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C05_Contains.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C06_EqualsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C06_EqualsMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C07_RemoveAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C07_RemoveAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C08_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C08_Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C09_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day35_ArrayList/C09_Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Banka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/BankaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/BankaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +155,10 @@
     <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C08_Sort.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day35_ArrayList/C09_Task.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day36_Review/C02_WrapperClassesReview.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Banka.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Circle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day37_Constructor_PassingObjects01/Musteri.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/Adres.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -408,7 +401,10 @@
     "Application.ForLoopContinue.executor": "Run",
     "Application.HomeWork.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodOverloadingReview.executor": "Run",
+    "Application.OkulTest.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.StudentTest.executor": "Run",
     "Application.ThreeDimensionalArray.executor": "Run",
     "Application.c05_IfExample2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -427,52 +423,13 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankaTest">
+  <component name="RunManager" selected="Application.MethodOverloadingReview">
     <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Constructor_PassingObjects01.BankaTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day37_Constructor_PassingObjects01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C00_ObjectArrayAndArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C00_ObjectArrayAndArrayList" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C06_RemoveDuplicate" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_SortLetterAndDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Review.C08_SortLetterAndDigits" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,13 +450,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodOverloadingReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructor_PassingObjects02.MethodOverloadingReview" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day38_Constructor_PassingObjects02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkulTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructor_PassingObjects02.okul.OkulTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day38_Constructor_PassingObjects02.okul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructor_PassingObjects02.StudentTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day38_Constructor_PassingObjects02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodOverloadingReview" />
+        <item itemvalue="Application.OkulTest" />
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.BankaTest" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.C06_RemoveDuplicate" />
-        <item itemvalue="Application.C00_ObjectArrayAndArrayList" />
-        <item itemvalue="Application.C08_SortLetterAndDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -760,7 +756,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741123052082</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commit day 37">
+      <option name="closed" value="true" />
+      <created>1741297166895</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1741297166895</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -799,7 +803,8 @@
     <MESSAGE value="commit day 33" />
     <MESSAGE value="commit day 34" />
     <MESSAGE value="commit day 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 35" />
+    <MESSAGE value="commit day 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
