@@ -51,7 +51,7 @@ public class Banka {
 
 
      public void findByHesapNo(int hesapNo) {
-         System.out.println("Heaap Numarasi ile Müsteri bulma");
+         System.out.println("Hesap Numarasi ile Müsteri bulma");
          System.out.println("--------------------------------");
 
          boolean isFond = true;
@@ -84,7 +84,7 @@ public class Banka {
          if (count==0){
              System.out.println(name+" isminde bir müsteri yoktur");
          }else {
-             System.out.println(name+" isminde "+count+" adet müstri vardir");
+             System.out.println(name+" isminde "+count+" adet müsteri vardir");
          }
 
 

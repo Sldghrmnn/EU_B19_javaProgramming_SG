@@ -44,7 +44,8 @@ public class BankaTest {
         System.out.println("musteri.bakiye = " + musteri.bakiye);
 
         banka2.paraYatir(musteri1,1575);
-        banka2.paraYatir(musteri2,1000000);
+        banka2.paraYatir(musteri2,100000);
+        banka2.paraYatir(musteri3,2000000);
 
         banka2.musteriListe();
 
@@ -52,6 +53,10 @@ public class BankaTest {
 
         banka2.musteriListe();
 
+        banka2.findByHesapNo(5001);
+        banka2.findByHesapNo(5011);
+
+        banka2.findByName("Arzu");
 
 
 
