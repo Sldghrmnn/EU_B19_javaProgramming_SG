@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 39">
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/BankaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/ReadOnlyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation_02/ReadyOnlyClassTest.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 40">
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/C01_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/Deneme1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/C01_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/C02_StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/constructors/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C01_Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C02_EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C03_ImmutablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C04_ImmutablePersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C05_WriteOnlyPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C06_WriteOnlyPersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Review/encapsulation/C07_EmailClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day37_Constructor_PassingObjects01/BankaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day37_Constructor_PassingObjects01/BankaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day40_Encapsulation_02/ReadOnlyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day40_Encapsulation_02/ReadOnlyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day40_Encapsulation_02/ReadyOnlyClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day40_Encapsulation_02/ReadyOnlyClassTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +168,11 @@
     <setting file="file://$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/StudentTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day38_Constructor_PassingObjects02/okul/Adres.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day39_Encapsulation_01/Person.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Account.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Bank.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/Bank/Customer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/ReadOnlyClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/ReadyOnlyClassTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -190,6 +201,7 @@
     "Application.C01_ForEach.executor": "Run",
     "Application.C01_MyFirstProgram.executor": "Run",
     "Application.C01_NestedForLoops.executor": "Run",
+    "Application.C01_PassByValue.executor": "Run",
     "Application.C01_PrimitiveDataTypes.executor": "Run",
     "Application.C01_Product.executor": "Run",
     "Application.C01_RaggedArraySentencesAndWords.executor": "Run",
@@ -203,6 +215,7 @@
     "Application.C02_ClassTask.executor": "Run",
     "Application.C02_CustomMethodpractice.executor": "Run",
     "Application.C02_DataTypesMiniMax.executor": "Run",
+    "Application.C02_EmployeeTest.executor": "Run",
     "Application.C02_HierarcicalMethodCall.executor": "Run",
     "Application.C02_HomeWork.executor": "Run",
     "Application.C02_IfElse_DayOfWeek.executor": "Run",
@@ -261,6 +274,7 @@
     "Application.C04_Example03.executor": "Run",
     "Application.C04_HeapOverFlow.executor": "Run",
     "Application.C04_HesapMakinasi.executor": "Run",
+    "Application.C04_ImmutablePersonTest.executor": "Run",
     "Application.C04_KalansizBolunenler.executor": "Run",
     "Application.C04_Rectangle.executor": "Run",
     "Application.C04_RemoveInALoop.executor": "Run",
@@ -318,6 +332,7 @@
     "Application.C06_ScannerTaskCont.executor": "Run",
     "Application.C06_Triangle.executor": "Run",
     "Application.C06_VehicleTest.executor": "Run",
+    "Application.C06_WriteOnlyPersonTest.executor": "Run",
     "Application.C06_odev.executor": "Run",
     "Application.C07_ArrayLoop.executor": "Run",
     "Application.C07_BigInteger.executor": "Run",
@@ -400,6 +415,7 @@
     "Application.C20_whileLoopTamSayilar.executor": "Run",
     "Application.CC07_Example06.executor": "Run",
     "Application.Circle.executor": "Run",
+    "Application.Deneme.executor": "Run",
     "Application.DogTest.executor": "Run",
     "Application.ForLoopContinue.executor": "Run",
     "Application.HomeWork.executor": "Run",
@@ -428,13 +444,13 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadyOnlyClassTest">
-    <configuration name="BankaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Constructor_PassingObjects01.BankaTest" />
+  <component name="RunManager" selected="Application.C06_WriteOnlyPersonTest">
+    <configuration name="C01_PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Review.C01_PassByValue" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Constructor_PassingObjects01.*" />
+          <option name="PATTERN" value="day41_Review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -442,12 +458,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructor_PassingObjects02.MethodOverloadingReview" />
+    <configuration name="C02_EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C02_EmployeeTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructor_PassingObjects02.*" />
+          <option name="PATTERN" value="day41_Review.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,12 +471,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OkulTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Constructor_PassingObjects02.okul.OkulTest" />
+    <configuration name="C04_ImmutablePersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C04_ImmutablePersonTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Constructor_PassingObjects02.okul.*" />
+          <option name="PATTERN" value="day41_Review.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,12 +484,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_Encapsulation_01.PersonTest" />
+    <configuration name="C06_WriteOnlyPersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C06_WriteOnlyPersonTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_Encapsulation_01.*" />
+          <option name="PATTERN" value="day41_Review.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,12 +497,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadyOnlyClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_Encapsulation_02.ReadyOnlyClassTest" />
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Review.constructors.Deneme" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day40_Encapsulation_02.*" />
+          <option name="PATTERN" value="day41_Review.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -496,11 +512,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadyOnlyClassTest" />
-        <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.BankaTest" />
-        <item itemvalue="Application.MethodOverloadingReview" />
-        <item itemvalue="Application.OkulTest" />
+        <item itemvalue="Application.C06_WriteOnlyPersonTest" />
+        <item itemvalue="Application.C04_ImmutablePersonTest" />
+        <item itemvalue="Application.C02_EmployeeTest" />
+        <item itemvalue="Application.Deneme" />
+        <item itemvalue="Application.C01_PassByValue" />
       </list>
     </recent_temporary>
   </component>
@@ -785,7 +801,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741729761637</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="commit day 40">
+      <option name="closed" value="true" />
+      <created>1741815660950</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1741815660950</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -800,7 +824,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit of day14" />
     <MESSAGE value="commit of day15" />
     <MESSAGE value="commit of day15 son" />
     <MESSAGE value="commit of day15 sonn" />
@@ -825,7 +848,8 @@
     <MESSAGE value="commit day 37" />
     <MESSAGE value="commit day 38" />
     <MESSAGE value="commit day 39" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 39" />
+    <MESSAGE value="commit day 40" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 40" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
