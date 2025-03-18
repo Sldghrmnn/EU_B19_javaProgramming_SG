@@ -4,31 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 41">
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C01_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C02_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C03_CountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C04_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C05_StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C06_Dinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C07_DinnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C08_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C09_CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C10_AllBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C11_AllBlocksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C12_OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_staticMemebers/C13_OuterClassTest.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 42">
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Lawyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Employee/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MulltiLevelInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MulltiLevelInheritance/GrantParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MulltiLevelInheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/MulltiLevelInheritance/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_Inheritance/Vehicle/VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/C01_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/C01_PassByValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/Deneme1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/constructors/C01_Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/constructors/C01_Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/constructors/C02_StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/constructors/C02_StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C01_Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C01_Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C02_EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C02_EmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C03_ImmutablePerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C03_ImmutablePerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C04_ImmutablePersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C04_ImmutablePersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C05_WriteOnlyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C05_WriteOnlyPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C06_WriteOnlyPersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day41_Review/encapsulation/C06_WriteOnlyPersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C01_Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C01_Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C02_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C02_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C04_Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C04_Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C05_StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C05_StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C06_Dinner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C06_Dinner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C07_DinnerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day42_staticMemebers/C07_DinnerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +180,13 @@
     <setting file="file://$PROJECT_DIR$/src/day40_Encapsulation_02/ReadyOnlyClassTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day41_Review/C01_PassByValue.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day41_Review/encapsulation/C07_EmailClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C01_Person.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C05_StudentTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C07_DinnerTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C08_Calculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C10_AllBlocks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C11_AllBlocksTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day42_staticMemebers/C12_OuterClass.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -429,6 +432,7 @@
     "Application.Circle.executor": "Run",
     "Application.Deneme.executor": "Run",
     "Application.DogTest.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
     "Application.ForLoopContinue.executor": "Run",
     "Application.HomeWork.executor": "Run",
     "Application.Main.executor": "Run",
@@ -438,7 +442,9 @@
     "Application.PersonTest.executor": "Run",
     "Application.ReadyOnlyClassTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
+    "Application.TestClass.executor": "Run",
     "Application.ThreeDimensionalArray.executor": "Run",
+    "Application.VehicleTest.executor": "Run",
     "Application.c05_IfExample2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -456,46 +462,7 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C07_DinnerTest">
-    <configuration name="C02_EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C02_EmployeeTest" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_ImmutablePersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C04_ImmutablePersonTest" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_WriteOnlyPersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Review.encapsulation.C06_WriteOnlyPersonTest" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_Review.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestClass">
     <configuration name="C07_DinnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_staticMemebers.C07_DinnerTest" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -522,13 +489,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Employee.EmployeeTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.MulltiLevelInheritance.TestClass" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.MulltiLevelInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Vehicle.VehicleTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Inheritance.Vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.VehicleTest" />
         <item itemvalue="Application.C07_DinnerTest" />
         <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.C06_WriteOnlyPersonTest" />
-        <item itemvalue="Application.C04_ImmutablePersonTest" />
-        <item itemvalue="Application.C02_EmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -829,7 +835,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741902703773</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="commit day 42">
+      <option name="closed" value="true" />
+      <created>1742248820740</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1742248820740</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -844,7 +858,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit of day15 son" />
     <MESSAGE value="commit of day15 sonn" />
     <MESSAGE value="commit of day16" />
     <MESSAGE value="commit of day17" />
@@ -869,7 +882,8 @@
     <MESSAGE value="commit day 39" />
     <MESSAGE value="commit day 40" />
     <MESSAGE value="commit day 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 41" />
+    <MESSAGE value="commit day 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
