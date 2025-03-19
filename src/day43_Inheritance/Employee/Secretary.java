@@ -3,7 +3,7 @@ package day43_Inheritance.Employee;
 public class Secretary extends Employee {
 
     String officeName;
-    String managerId;
+    int managerId;
 
 
 

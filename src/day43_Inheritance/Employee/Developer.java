@@ -6,7 +6,7 @@ public class Developer extends Employee {
 
     String mainLang;
 
-    String campusName = "Etlik Kampusu";
+    String campusName = "Etlik Kampüsü";
 
     public void releaseCode(){
         System.out.println("Kod canliya sunuldu");

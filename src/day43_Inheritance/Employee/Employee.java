@@ -9,7 +9,7 @@ public class Employee {
     int vacationDay;
     char gender;
 
-    String campusName = "Yenisehir Kampusu";
+    String campusName = "Yenisehir Kampüsü";
 
     public void raiseSalary(){
         System.out.println("%25 oraninda maas zammi talebi var.");
