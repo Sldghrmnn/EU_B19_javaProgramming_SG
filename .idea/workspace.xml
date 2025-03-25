@@ -4,25 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 45">
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/OgrenciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTestInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/PackageB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/ProtectedBInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/ZooTest.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 46">
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Constructor/Ogrenci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Constructor/Ogrenci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Singleton/Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Singleton/Single.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Dog.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +197,7 @@
     <setting file="file://$PROJECT_DIR$/src/day45_Review/A/ATest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day45_Review/City.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day45_Review/CityReadOnly.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/Ogrenci.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -456,6 +455,7 @@
     "Application.ReadyOnlyClassTest.executor": "Run",
     "Application.SingleTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TestClass.executor": "Run",
     "Application.ThreeDimensionalArray.executor": "Run",
     "Application.VehicleTest.executor": "Run",
@@ -478,13 +478,13 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZooTest">
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Employee.EmployeeTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43_Inheritance.Employee.*" />
+          <option name="PATTERN" value="day46_AccessModifiers.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,12 +492,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Singleton.*" />
+          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -546,11 +546,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ZooTest" />
         <item itemvalue="Application.SingleTest" />
         <item itemvalue="Application.day44_Inheritance02.VehicleProject.VehicleTest" />
         <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.EmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -883,7 +883,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742506968974</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="commit day 46">
+      <option name="closed" value="true" />
+      <created>1742910891422</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1742910891422</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -898,7 +906,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="branching and labeled statements" />
     <MESSAGE value="commit day 19" />
     <MESSAGE value="commit day 20" />
     <MESSAGE value="commit day 21" />
@@ -923,7 +930,8 @@
     <MESSAGE value="commit day 43" />
     <MESSAGE value="commit day 44" />
     <MESSAGE value="commit day 45" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 45" />
+    <MESSAGE value="commit day 46" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 46" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
