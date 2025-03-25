@@ -4,32 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 44">
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/A/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/A/ATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/Akbank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/GarantiBankasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/BankAccountProject/YapiKredi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/CityReadOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Review/ShapeProject/ShapeTest.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 45">
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/OgrenciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/AccessModifiersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageA/OgrenciTestInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/PackageB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/PackageB/ProtectedBInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Singleton/SingleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/ZooTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/AnimalProject/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/AnimalProject/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/AnimalProject/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/AnimalProject/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/AdvanceCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/AdvanceCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/FlightCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/FlightCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/ScinCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/Calculator/ScinCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/VehicleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day44_Inheritance02/VehicleProject/VehicleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,8 +196,10 @@
     <setting file="file://$PROJECT_DIR$/src/day44_Inheritance02/VehicleProject/Truck.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day44_Inheritance02/VehicleProject/VehicleTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day45_Review/A/A.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day45_Review/A/ATest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day45_Review/City.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day45_Review/CityReadOnly.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -217,277 +212,279 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BankaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C00_ObjectArrayAndArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ArithmeticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ArrayListIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ArrayListReview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ArraysIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ArtikYil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_Birthday.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_DebuggingMethodCall.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C01_FirstMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_ForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_MyFirstProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_NestedForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_PassByValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_PrimitiveDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_Product.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_RaggedArraySentencesAndWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_RandomNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_SayHi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_TwoDimensionalArrayExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_WhileLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_WrapperClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_BuyukSayi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_ClassTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_CustomMethodpractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_DataTypesMiniMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_EmployeeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_HierarcicalMethodCall.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_IfElse_DayOfWeek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_If_Cont.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_Loop1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_MethodCalling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_PrintVsPrintln.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_ProductTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_RandomPassword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_RandomPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_Remove.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_SwitchIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_TwoDimArrayPrint.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C02_UserInputs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_VeriablePractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_WhileLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_WideningCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_WrapperParseMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Alfabe.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_AlternatifYol.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_AssignmentOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Cities.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C03_ClassTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_ErrVSOut.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_EscapeChars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Example02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_ForLoop_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Google.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_If_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_IsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_MethodsWithParameters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_NameOfMonth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_NarrowingCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_NumberPicker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_SayilarinOrtalamasi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_StackOverFlow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_StringConcatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_SwitchWeekDays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_UniqueNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C04_AddAll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_BasamaklaraAyirma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_CarpanlaraAyirma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_ClassTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_ConcatenationTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_DebuggingMethod.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C04_Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Empty.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Example03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_HeapOverFlow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_HesapMakinasi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_ImmutablePersonTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_KalansizBolunenler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_RemoveInALoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_ReturnTheBiggest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Scanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_StartsWithEndsWith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_SumTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_TernaryExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_UnaryOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_UnaryOpertators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_WithoutEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Aylar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_ClassTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Contains.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Counter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_EmailDomain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_EscapeCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_EvenlyDivisible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Example04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_FilterRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Initials.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_MathClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_MethodInLoop.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C05_MethodsTasks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_MiddleTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_NestedIf_ClassTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_ScannerFromTxtFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_ScannerTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_ShortHandOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_SwappingTwoNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_SwitchCaseExamplee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_TekCiftTopla.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_VeriableTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_WrapperLetterIsMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Cube.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_EnKucukEnBasa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Example05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Faktoriyel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_HaftaninGünleri.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_HomeWorks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_IfElseTernary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_If_ElseIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_LogicalOperatorsExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_PracticeWithReturn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_RemoveDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_ReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_SayiTerstenOlusturma.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C06_SayininRakamlariToplami.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_ScannerTaskCont.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_VehicleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_WriteOnlyPersonTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_odev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ArrayLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_BigInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_CheckNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ClassTask3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_DataTypesHomework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_DateTimeClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_DinnerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_FindDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ForLoop_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_Frekans.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_Initials.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_NestedTernary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_Odev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_RelationalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_SayiTahminOyunu_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ScannerTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_ScannerWithPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_SwitchCaseBankMenu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_odevTekrari.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_taslakOdev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_AlisVeris.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_DinamikLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_DogumGunu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_EgualNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_Example07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_FlightTicket.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_HierarchicalMethodCall.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_HomeWork.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C08_HomeWorkdevam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_IfBeden.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_LogicalAND.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_NtimesString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_SortLetterAndDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_UniqChars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_Without10_HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_dersNotlari.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_odev_ilk.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_HarfKaldir.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_LogicalOR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_PhoneNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_SayiBasamakDegeriTToplama.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_SecretKey.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.C09_UrunAra.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C09_odev_iki.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_BirthDay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_HomeWork2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_HomeWork_Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_KarakterSayisi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_LargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_MissingOddNummer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_NestedLoopsBreak.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_odev_uc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C10_oyKullanma_dersNotPuani_odev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C11_ArraysToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C11_EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C11_HarfDonusturucu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C11_HomeWork3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C11_odev_dort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C12_HomeWork4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C12_PrecedenceOfLogicalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C12_odev_bes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C13_HomeWork5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C13_LogicalORveANDOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C13_NestedLoopsContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C14_HomeWork6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C14_task_homeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C15_HomeWork7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C16_HomeWork8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C17_ReturnExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C18_SwitchContinueLabeled.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C19_WhileLoopIkiBasamakli7Bolunen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C20_whileLoopTamSayilar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CC07_Example06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Deneme.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DogTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoopContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodOverloadingReview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OkulTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PersonTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadyOnlyClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VehicleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.c05_IfExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day44_Inheritance02.VehicleProject.VehicleTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Selda Gehrmann/IdeaProjects/EU_B19_javaProgramming_SG/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankaTest.executor": "Run",
+    "Application.C00_ObjectArrayAndArrayList.executor": "Run",
+    "Application.C01_ArithmeticOperators.executor": "Run",
+    "Application.C01_ArrayListIntro.executor": "Run",
+    "Application.C01_ArrayListReview.executor": "Run",
+    "Application.C01_ArraysIntro.executor": "Run",
+    "Application.C01_ArtikYil.executor": "Run",
+    "Application.C01_Birthday.executor": "Run",
+    "Application.C01_Comments.executor": "Run",
+    "Application.C01_DebuggingMethodCall.executor": "Debug",
+    "Application.C01_FirstMain.executor": "Run",
+    "Application.C01_ForEach.executor": "Run",
+    "Application.C01_MyFirstProgram.executor": "Run",
+    "Application.C01_NestedForLoops.executor": "Run",
+    "Application.C01_PassByValue.executor": "Run",
+    "Application.C01_PrimitiveDataTypes.executor": "Run",
+    "Application.C01_Product.executor": "Run",
+    "Application.C01_RaggedArraySentencesAndWords.executor": "Run",
+    "Application.C01_RandomNumbers.executor": "Run",
+    "Application.C01_SayHi.executor": "Run",
+    "Application.C01_TwoDimensionalArrayExample1.executor": "Run",
+    "Application.C01_Variables.executor": "Run",
+    "Application.C01_WhileLoops.executor": "Run",
+    "Application.C01_WrapperClasses.executor": "Run",
+    "Application.C02_BuyukSayi.executor": "Run",
+    "Application.C02_ClassTask.executor": "Run",
+    "Application.C02_CustomMethodpractice.executor": "Run",
+    "Application.C02_DataTypesMiniMax.executor": "Run",
+    "Application.C02_EmployeeTest.executor": "Run",
+    "Application.C02_HierarcicalMethodCall.executor": "Run",
+    "Application.C02_HomeWork.executor": "Run",
+    "Application.C02_IfElse_DayOfWeek.executor": "Run",
+    "Application.C02_If_Cont.executor": "Run",
+    "Application.C02_Loop1.executor": "Run",
+    "Application.C02_MethodCalling.executor": "Run",
+    "Application.C02_PrintVsPrintln.executor": "Run",
+    "Application.C02_ProductTest.executor": "Run",
+    "Application.C02_RandomPassword.executor": "Run",
+    "Application.C02_RandomPractice.executor": "Run",
+    "Application.C02_Remove.executor": "Run",
+    "Application.C02_StringMethods.executor": "Run",
+    "Application.C02_SwitchIntro.executor": "Run",
+    "Application.C02_Task_1.executor": "Run",
+    "Application.C02_TwoDimArrayPrint.executor": "Debug",
+    "Application.C02_UserInputs.executor": "Run",
+    "Application.C02_VeriablePractice.executor": "Run",
+    "Application.C02_WhileLoops.executor": "Run",
+    "Application.C02_WideningCasting.executor": "Run",
+    "Application.C02_WrapperParseMethods.executor": "Run",
+    "Application.C03_Alfabe.executor": "Run",
+    "Application.C03_AlternatifYol.executor": "Run",
+    "Application.C03_AssignmentOperators.executor": "Run",
+    "Application.C03_Cities.executor": "Debug",
+    "Application.C03_ClassTask2.executor": "Run",
+    "Application.C03_ErrVSOut.executor": "Run",
+    "Application.C03_EscapeChars.executor": "Run",
+    "Application.C03_Example02.executor": "Run",
+    "Application.C03_ForLoop_3.executor": "Run",
+    "Application.C03_Google.executor": "Run",
+    "Application.C03_If_Example.executor": "Run",
+    "Application.C03_IsEmpty.executor": "Run",
+    "Application.C03_MethodsWithParameters.executor": "Run",
+    "Application.C03_NameOfMonth.executor": "Run",
+    "Application.C03_NarrowingCasting.executor": "Run",
+    "Application.C03_NumberPicker.executor": "Run",
+    "Application.C03_Reverse.executor": "Run",
+    "Application.C03_SayilarinOrtalamasi.executor": "Run",
+    "Application.C03_StackOverFlow.executor": "Run",
+    "Application.C03_StringConcatenation.executor": "Run",
+    "Application.C03_SwitchWeekDays.executor": "Run",
+    "Application.C03_Task_1.executor": "Run",
+    "Application.C03_Task_2.executor": "Run",
+    "Application.C03_TernaryOperator.executor": "Run",
+    "Application.C03_UniqueNumber.executor": "Debug",
+    "Application.C04_AddAll.executor": "Run",
+    "Application.C04_BasamaklaraAyirma.executor": "Run",
+    "Application.C04_Break.executor": "Run",
+    "Application.C04_Calculator.executor": "Run",
+    "Application.C04_CarpanlaraAyirma.executor": "Run",
+    "Application.C04_ClassTask.executor": "Run",
+    "Application.C04_ConcatenationTask.executor": "Run",
+    "Application.C04_DebuggingMethod.executor": "Debug",
+    "Application.C04_Dice.executor": "Run",
+    "Application.C04_Empty.executor": "Run",
+    "Application.C04_Example03.executor": "Run",
+    "Application.C04_HeapOverFlow.executor": "Run",
+    "Application.C04_HesapMakinasi.executor": "Run",
+    "Application.C04_ImmutablePersonTest.executor": "Run",
+    "Application.C04_KalansizBolunenler.executor": "Run",
+    "Application.C04_Rectangle.executor": "Run",
+    "Application.C04_RemoveInALoop.executor": "Run",
+    "Application.C04_ReturnTheBiggest.executor": "Run",
+    "Application.C04_Scanner.executor": "Run",
+    "Application.C04_StartsWithEndsWith.executor": "Run",
+    "Application.C04_SumTwo.executor": "Run",
+    "Application.C04_TernaryExample1.executor": "Run",
+    "Application.C04_UnaryOperators.executor": "Run",
+    "Application.C04_UnaryOpertators.executor": "Run",
+    "Application.C04_Variables.executor": "Run",
+    "Application.C04_WithoutEnd.executor": "Run",
+    "Application.C05_Aylar.executor": "Run",
+    "Application.C05_Circle.executor": "Run",
+    "Application.C05_ClassTask2.executor": "Run",
+    "Application.C05_Contains.executor": "Run",
+    "Application.C05_Continue.executor": "Run",
+    "Application.C05_Counter.executor": "Run",
+    "Application.C05_EmailDomain.executor": "Run",
+    "Application.C05_EscapeCharacters.executor": "Run",
+    "Application.C05_EvenlyDivisible.executor": "Run",
+    "Application.C05_Example04.executor": "Run",
+    "Application.C05_FilterRange.executor": "Run",
+    "Application.C05_Initials.executor": "Run",
+    "Application.C05_MathClass.executor": "Run",
+    "Application.C05_MethodInLoop.executor": "Debug",
+    "Application.C05_MethodsTasks.executor": "Run",
+    "Application.C05_MiddleTwo.executor": "Run",
+    "Application.C05_NestedIf_ClassTask.executor": "Run",
+    "Application.C05_ScannerFromTxtFile.executor": "Run",
+    "Application.C05_ScannerTask.executor": "Run",
+    "Application.C05_ShortHandOperators.executor": "Run",
+    "Application.C05_Substring.executor": "Run",
+    "Application.C05_SwappingTwoNumbers.executor": "Run",
+    "Application.C05_SwitchCaseExamplee.executor": "Run",
+    "Application.C05_TekCiftTopla.executor": "Run",
+    "Application.C05_VeriableTypes.executor": "Run",
+    "Application.C05_WrapperLetterIsMethods.executor": "Run",
+    "Application.C06_Cube.executor": "Run",
+    "Application.C06_EnKucukEnBasa.executor": "Run",
+    "Application.C06_Example.executor": "Run",
+    "Application.C06_Example05.executor": "Run",
+    "Application.C06_Faktoriyel.executor": "Run",
+    "Application.C06_HaftaninGünleri.executor": "Run",
+    "Application.C06_HomeWorks.executor": "Run",
+    "Application.C06_IfElseTernary.executor": "Run",
+    "Application.C06_If_ElseIf.executor": "Run",
+    "Application.C06_LogicalOperatorsExample.executor": "Run",
+    "Application.C06_PracticeWithReturn.executor": "Run",
+    "Application.C06_RemoveDuplicate.executor": "Run",
+    "Application.C06_ReverseNumber.executor": "Run",
+    "Application.C06_ReverseString.executor": "Run",
+    "Application.C06_SayiTerstenOlusturma.executor": "Debug",
+    "Application.C06_SayininRakamlariToplami.executor": "Run",
+    "Application.C06_ScannerTaskCont.executor": "Run",
+    "Application.C06_Triangle.executor": "Run",
+    "Application.C06_VehicleTest.executor": "Run",
+    "Application.C06_WriteOnlyPersonTest.executor": "Run",
+    "Application.C06_odev.executor": "Run",
+    "Application.C07_ArrayLoop.executor": "Run",
+    "Application.C07_BigInteger.executor": "Run",
+    "Application.C07_CheckNumbers.executor": "Run",
+    "Application.C07_ClassTask3.executor": "Run",
+    "Application.C07_DataTypesHomework.executor": "Run",
+    "Application.C07_DateTimeClass.executor": "Run",
+    "Application.C07_DinnerTest.executor": "Run",
+    "Application.C07_FindDuplicates.executor": "Run",
+    "Application.C07_ForLoop_4.executor": "Run",
+    "Application.C07_Frekans.executor": "Run",
+    "Application.C07_HomeWork.executor": "Run",
+    "Application.C07_Initials.executor": "Run",
+    "Application.C07_NestedTernary.executor": "Run",
+    "Application.C07_Odev.executor": "Run",
+    "Application.C07_RelationalOperators.executor": "Run",
+    "Application.C07_ReverseArray.executor": "Run",
+    "Application.C07_SayiTahminOyunu_2.executor": "Run",
+    "Application.C07_ScannerTask2.executor": "Run",
+    "Application.C07_ScannerWithPattern.executor": "Run",
+    "Application.C07_String.executor": "Run",
+    "Application.C07_SwitchCaseBankMenu.executor": "Run",
+    "Application.C07_Triangle.executor": "Run",
+    "Application.C07_odevTekrari.executor": "Run",
+    "Application.C07_taslakOdev.executor": "Run",
+    "Application.C08_AlisVeris.executor": "Run",
+    "Application.C08_DinamikLoop.executor": "Run",
+    "Application.C08_DogumGunu.executor": "Run",
+    "Application.C08_EgualNumbers.executor": "Run",
+    "Application.C08_Example07.executor": "Run",
+    "Application.C08_FlightTicket.executor": "Run",
+    "Application.C08_HierarchicalMethodCall.executor": "Run",
+    "Application.C08_HomeWork.executor": "Debug",
+    "Application.C08_HomeWorkdevam.executor": "Run",
+    "Application.C08_IfBeden.executor": "Run",
+    "Application.C08_LogicalAND.executor": "Run",
+    "Application.C08_NtimesString.executor": "Run",
+    "Application.C08_Rectangle.executor": "Run",
+    "Application.C08_Sort.executor": "Run",
+    "Application.C08_SortLetterAndDigits.executor": "Run",
+    "Application.C08_UniqChars.executor": "Run",
+    "Application.C08_Without10_HomeWork.executor": "Run",
+    "Application.C08_dersNotlari.executor": "Run",
+    "Application.C08_odev_ilk.executor": "Run",
+    "Application.C09_HarfKaldir.executor": "Run",
+    "Application.C09_HomeWork.executor": "Run",
+    "Application.C09_LogicalOR.executor": "Run",
+    "Application.C09_PhoneNumber.executor": "Run",
+    "Application.C09_SayiBasamakDegeriTToplama.executor": "Run",
+    "Application.C09_SecretKey.executor": "Debug",
+    "Application.C09_UrunAra.executor": "Run",
+    "Application.C09_odev_iki.executor": "Run",
+    "Application.C10_BirthDay.executor": "Run",
+    "Application.C10_HomeWork2.executor": "Run",
+    "Application.C10_HomeWork_Arrays.executor": "Run",
+    "Application.C10_KarakterSayisi.executor": "Run",
+    "Application.C10_LargestNumber.executor": "Run",
+    "Application.C10_MissingOddNummer.executor": "Run",
+    "Application.C10_NestedLoopsBreak.executor": "Run",
+    "Application.C10_Rectangle.executor": "Run",
+    "Application.C10_odev_uc.executor": "Run",
+    "Application.C10_oyKullanma_dersNotPuani_odev.executor": "Run",
+    "Application.C11_ArraysToString.executor": "Run",
+    "Application.C11_EvenOdd.executor": "Run",
+    "Application.C11_HarfDonusturucu.executor": "Run",
+    "Application.C11_HomeWork3.executor": "Run",
+    "Application.C11_odev_dort.executor": "Run",
+    "Application.C12_HomeWork4.executor": "Run",
+    "Application.C12_PrecedenceOfLogicalOperators.executor": "Run",
+    "Application.C12_odev_bes.executor": "Run",
+    "Application.C13_HomeWork5.executor": "Run",
+    "Application.C13_LogicalORveANDOperator.executor": "Run",
+    "Application.C13_NestedLoopsContinue.executor": "Run",
+    "Application.C14_HomeWork6.executor": "Run",
+    "Application.C14_task_homeWork.executor": "Run",
+    "Application.C15_HomeWork7.executor": "Run",
+    "Application.C16_HomeWork8.executor": "Run",
+    "Application.C17_ReturnExample.executor": "Run",
+    "Application.C18_SwitchContinueLabeled.executor": "Run",
+    "Application.C19_WhileLoopIkiBasamakli7Bolunen.executor": "Run",
+    "Application.C20_whileLoopTamSayilar.executor": "Run",
+    "Application.CC07_Example06.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Deneme.executor": "Run",
+    "Application.DogTest.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
+    "Application.ForLoopContinue.executor": "Run",
+    "Application.HomeWork.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MethodOverloadingReview.executor": "Run",
+    "Application.OkulTest.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PersonTest.executor": "Run",
+    "Application.ReadyOnlyClassTest.executor": "Run",
+    "Application.SingleTest.executor": "Run",
+    "Application.StudentTest.executor": "Run",
+    "Application.TestClass.executor": "Run",
+    "Application.ThreeDimensionalArray.executor": "Run",
+    "Application.VehicleTest.executor": "Run",
+    "Application.ZooTest.executor": "Run",
+    "Application.c05_IfExample2.executor": "Run",
+    "Application.day44_Inheritance02.VehicleProject.VehicleTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Selda Gehrmann/IdeaProjects/EU_B19_javaProgramming_SG/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day44_Inheritance02.VehicleProject.VehicleTest">
-    <configuration name="C07_DinnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_staticMemebers.C07_DinnerTest" />
+  <component name="RunManager" selected="Application.ZooTest">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Employee.EmployeeTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_staticMemebers.*" />
+          <option name="PATTERN" value="day43_Inheritance.Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -495,12 +492,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Employee.EmployeeTest" />
+    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43_Inheritance.Employee.*" />
+          <option name="PATTERN" value="day46_AccessModifiers.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,12 +518,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.Vehicle.VehicleTest" />
+    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Zoo.ZooTest" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43_Inheritance.Vehicle.*" />
+          <option name="PATTERN" value="day46_AccessModifiers.Zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,11 +546,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooTest" />
+        <item itemvalue="Application.SingleTest" />
         <item itemvalue="Application.day44_Inheritance02.VehicleProject.VehicleTest" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.VehicleTest" />
-        <item itemvalue="Application.C07_DinnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -878,7 +875,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742421024634</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="commit day 45">
+      <option name="closed" value="true" />
+      <created>1742506968974</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1742506968974</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -893,7 +898,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit of day17" />
     <MESSAGE value="branching and labeled statements" />
     <MESSAGE value="commit day 19" />
     <MESSAGE value="commit day 20" />
@@ -918,7 +922,8 @@
     <MESSAGE value="commit day 42" />
     <MESSAGE value="commit day 43" />
     <MESSAGE value="commit day 44" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 44" />
+    <MESSAGE value="commit day 45" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
