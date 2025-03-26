@@ -4,23 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 46">
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/MethodHiding/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/VeriableHiding/TestClass.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 47">
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/BaseKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/CakeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/CevizliKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/CikolataliKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/SadeKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Cake/VanilyaliKek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/MultiLevel_Inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/MultiLevel_Inheritance/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/MultiLevel_Inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/OtoPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/OtoparkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Constructor/Ogrenci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Constructor/Ogrenci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Singleton/Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Singleton/Single.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day46_AccessModifiers/Zoo/Dog.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +203,9 @@
     <setting file="file://$PROJECT_DIR$/src/day45_Review/CityReadOnly.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day46_AccessModifiers/Constructor/Ogrenci.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day46_AccessModifiers/Zoo/Zoo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/Rectangle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/OtoPark.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -441,6 +448,7 @@
     "Application.C19_WhileLoopIkiBasamakli7Bolunen.executor": "Run",
     "Application.C20_whileLoopTamSayilar.executor": "Run",
     "Application.CC07_Example06.executor": "Run",
+    "Application.CakeTest.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.Deneme.executor": "Run",
     "Application.DogTest.executor": "Run",
@@ -478,7 +486,20 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.CakeTest">
+    <configuration name="CakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_AbstractClass.Cake.CakeTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day48_AbstractClass.Cake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -498,19 +519,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Inheritance.MulltiLevelInheritance.TestClass" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day43_Inheritance.MulltiLevelInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -546,11 +554,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CakeTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ZooTest" />
         <item itemvalue="Application.SingleTest" />
         <item itemvalue="Application.day44_Inheritance02.VehicleProject.VehicleTest" />
-        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -891,7 +899,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742910891422</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="commit day 47">
+      <option name="closed" value="true" />
+      <created>1742937259465</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1742937259465</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -906,7 +922,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit day 19" />
     <MESSAGE value="commit day 20" />
     <MESSAGE value="commit day 21" />
     <MESSAGE value="commit day 22" />
@@ -931,7 +946,8 @@
     <MESSAGE value="commit day 44" />
     <MESSAGE value="commit day 45" />
     <MESSAGE value="commit day 46" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 46" />
+    <MESSAGE value="commit day 47" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 47" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
