@@ -4,38 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 48">
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/AnimalClass/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/Addressable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C01_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C02_PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/DataClass/C03_PersonRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C01_Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C02_ColorsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C03_Brands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C04_Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C05_MyEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C06_MyEnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C07_Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Enumeration/C08_DeviceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Interface_Enum_DataClass/Shape/ShapeTest.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 49">
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/CompileTime/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleWStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/Ipad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/SafariDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/SekilGrup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/ChildA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/ChildB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/ShapeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/MultiLevel_Inheritance/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/MultiLevel_Inheritance/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/Vehicle/OtoparkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/Vehicle/OtoparkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/Vehicle/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/Vehicle/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/ShapeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -219,6 +220,11 @@
     <setting file="file://$PROJECT_DIR$/src/day47_FinalKeyword_VarMethodHiding/FinalKeyword/FinalVariables.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day48_AbstractClass/AbstractIntro/Rectangle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day48_AbstractClass/Vehicle/OtoPark.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/CompileTime/MethodOverloading.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Animal.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Duck.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -233,6 +239,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimalTest.executor": "Run",
     "Application.BankaTest.executor": "Run",
     "Application.C00_ObjectArrayAndArrayList.executor": "Run",
     "Application.C01_ArithmeticOperators.executor": "Run",
@@ -484,6 +491,7 @@
     "Application.ZooTest.executor": "Run",
     "Application.c05_IfExample2.executor": "Run",
     "Application.day44_Inheritance02.VehicleProject.VehicleTest.executor": "Run",
+    "Application.day50_Polimorphism02.Example.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -500,7 +508,20 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeTest">
+  <component name="RunManager" selected="Application.day50_Polimorphism02.Example.Test">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day49_Polimorphism01.RunTime.AnimalTest" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day49_Polimorphism01.RunTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day48_AbstractClass.Cake.CakeTest" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -527,19 +548,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Singleton.SingleTest" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -553,12 +561,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_AccessModifiers.Zoo.ZooTest" />
+    <configuration name="day50_Polimorphism02.Example.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day50_Polimorphism02.Example.Test" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_AccessModifiers.Zoo.*" />
+          <option name="PATTERN" value="day50_Polimorphism02.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -568,11 +576,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day50_Polimorphism02.Example.Test" />
+        <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.CakeTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.SingleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -929,7 +937,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743027399592</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="commit day 49">
+      <option name="closed" value="true" />
+      <created>1743165047113</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743165047113</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -944,7 +960,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit day 21" />
     <MESSAGE value="commit day 22" />
     <MESSAGE value="commit day 23" />
     <MESSAGE value="commit day 25" />
@@ -969,7 +984,8 @@
     <MESSAGE value="commit day 46" />
     <MESSAGE value="commit day 47" />
     <MESSAGE value="commit day 48" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 48" />
+    <MESSAGE value="commit day 49" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
