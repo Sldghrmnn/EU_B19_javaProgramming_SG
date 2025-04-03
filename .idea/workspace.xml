@@ -4,39 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 49">
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/CompileTime/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/MyInterface/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleWStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/Ipad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/Mac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/SafariDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/Example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/InstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/MethodCalling/SekilGrup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/ChildA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/ChildB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polimorphism02/ReferenceType/Test.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 50">
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C01_CompileTimeErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C02_OutOfMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C03_OutOfMemoryErrorHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C04_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C05_MultipleExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C06_Checked_Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C07_Throws_keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day51_Errors_Exceptions/C08_Throw_keyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day49_Interface_Enum_DataClass/Shape/ShapeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/AppleDevices/AppleWStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/AppleDevices/AppleWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/AppleDevices/AppleWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/ChromeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/ChromeDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/SafariDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/SafariDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/Example/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Daire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Daire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Kare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Kare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Sekil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Sekil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/SekilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/SekilTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Ucgen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/MethodCalling/Ucgen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/ChildA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/ChildA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/ChildB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/ChildB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day50_Polimorphism02/ReferenceType/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,6 +217,7 @@
     <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Animal.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Cat.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day49_Polimorphism01/RunTime/Duck.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day50_Polimorphism02/AppleDevices/AppleWatch.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -275,6 +268,7 @@
     "Application.C02_If_Cont.executor": "Run",
     "Application.C02_Loop1.executor": "Run",
     "Application.C02_MethodCalling.executor": "Run",
+    "Application.C02_OutOfMemory.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
     "Application.C02_ProductTest.executor": "Run",
     "Application.C02_RandomPassword.executor": "Run",
@@ -366,6 +360,7 @@
     "Application.C05_TekCiftTopla.executor": "Run",
     "Application.C05_VeriableTypes.executor": "Run",
     "Application.C05_WrapperLetterIsMethods.executor": "Run",
+    "Application.C06_Checked_Unchecked.executor": "Run",
     "Application.C06_Cube.executor": "Run",
     "Application.C06_EnKucukEnBasa.executor": "Run",
     "Application.C06_Example.executor": "Run",
@@ -426,6 +421,7 @@
     "Application.C08_Rectangle.executor": "Run",
     "Application.C08_Sort.executor": "Run",
     "Application.C08_SortLetterAndDigits.executor": "Run",
+    "Application.C08_Throw_keyword.executor": "Run",
     "Application.C08_UniqChars.executor": "Run",
     "Application.C08_Without10_HomeWork.executor": "Run",
     "Application.C08_dersNotlari.executor": "Run",
@@ -508,7 +504,7 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day50_Polimorphism02.Example.Test">
+  <component name="RunManager" selected="Application.C08_Throw_keyword">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day49_Polimorphism01.RunTime.AnimalTest" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -522,12 +518,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_AbstractClass.Cake.CakeTest" />
+    <configuration name="C02_OutOfMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Errors_Exceptions.C02_OutOfMemory" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_AbstractClass.Cake.*" />
+          <option name="PATTERN" value="day51_Errors_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,12 +531,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day49_Interface_Enum_DataClass.Shape.ShapeTest" />
+    <configuration name="C06_Checked_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Errors_Exceptions.C06_Checked_Unchecked" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day49_Interface_Enum_DataClass.Shape.*" />
+          <option name="PATTERN" value="day51_Errors_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -548,12 +544,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.Test" />
+    <configuration name="C08_Throw_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Errors_Exceptions.C08_Throw_keyword" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_FinalKeyword_VarMethodHiding.MethodHiding.*" />
+          <option name="PATTERN" value="day51_Errors_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,11 +572,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C08_Throw_keyword" />
+        <item itemvalue="Application.C06_Checked_Unchecked" />
+        <item itemvalue="Application.C02_OutOfMemory" />
         <item itemvalue="Application.day50_Polimorphism02.Example.Test" />
         <item itemvalue="Application.AnimalTest" />
-        <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="Application.CakeTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -945,7 +941,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743165047113</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="commit day 50">
+      <option name="closed" value="true" />
+      <created>1743623868708</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1743623868708</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -960,7 +964,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit day 22" />
     <MESSAGE value="commit day 23" />
     <MESSAGE value="commit day 25" />
     <MESSAGE value="commit day 26" />
@@ -985,7 +988,8 @@
     <MESSAGE value="commit day 47" />
     <MESSAGE value="commit day 48" />
     <MESSAGE value="commit day 49" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 49" />
+    <MESSAGE value="commit day 50" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

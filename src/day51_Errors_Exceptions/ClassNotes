@@ -1,0 +1,36 @@
+Errors
+• Indicates that an illegal operation is being performed
+• Occurs during the runtime only
+• They can not be recovered, and not recommended to handle them
+    * Compile-time errors (syntax errors, wrong data types usage)
+    * Run time errors
+    * Logical errors
+
+
+Exception
+• An unwanted or unexpected event
+• Occurs during the compile time or during the runtime
+• There are two categories of exceptions: checked exception and unchecked exception
+• To prevent exceptions from crashing our program, we must write code that detects
+and handles them
+
+Unchecked Exceptions
+• Exceptions that are not checked at compile time
+• Occurs during the runtime
+• Code will compile even if we do not handle them
+• They have IS A relationship with RuntimeException (parent class)
+
+checked Exceptions
+• Exceptions that are checked at compile time
+• Occurs during the compile time
+• Code will not compile if we do not handle them
+• They do not have IS A relationship with RuntimeException class
+
+
+Exception Handling - try & catch
+• To handle an exception (checked or unchecked), we can use try & catch block
+
+Throws Keyword
+• Used within the method signature
+• Informs the compiler that method throws one of the listed type exception
+• Fastest way to get rid of the compilation error that’s caused by a checked exception
