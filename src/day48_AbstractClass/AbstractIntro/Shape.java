@@ -28,4 +28,6 @@ public abstract class Shape {
     protected final void finalMethod(){
         System.out.println("Abstract class final Method");
     }
+
+
 }
