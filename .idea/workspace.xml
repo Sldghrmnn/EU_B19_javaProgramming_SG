@@ -4,22 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 52">
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Queue/ArrayDequeueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Queue/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/TreeSetExample.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 53">
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C01_Maps_basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C02_Maps_Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C03_Map_Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C04_Maps_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C05_Maps_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C06_Maps_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/C07_Lambda_Expressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C02_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C03_SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C04_SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C05_Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C06_MapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C07_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C08_Map_EntrySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C09_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C10_Java8_ForEachMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C11_RemoveIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C12_ListOfMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day48_AbstractClass/AbstractIntro/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/ListExampleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/ListExampleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/PerformanceAddSequential.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/PerformanceAddSequential.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Stack/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Stack/StackDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Stack/StackReverseArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Stack/StackReverseArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Vector/ArrayListMultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day52_Collections_List/Vector/ArrayListMultiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/ArrayDequeueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/ArrayDequeueExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/PriorityQueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/PriorityQueueExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/QueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Queue/QueueExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/HashSetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/HashSetExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/SetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/SetExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/TreeSetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day53_Collections_Queue_Set/Set/TreeSetExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +224,11 @@
     <setting file="file://$PROJECT_DIR$/src/day50_Polimorphism02/Downcasting/Animal.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day51_Errors_Exceptions/C06_Checked_Unchecked.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day51_Errors_Exceptions/C09_UserDefinedException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day53_Collections_Queue_Set/Queue/PriorityQueueExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day53_Collections_Queue_Set/Queue/QueueExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/HashSetExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/SetExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day53_Collections_Queue_Set/Set/TreeSetExample.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -234,6 +250,7 @@
     "Application.C01_ArithmeticOperators.executor": "Run",
     "Application.C01_ArrayListIntro.executor": "Run",
     "Application.C01_ArrayListReview.executor": "Run",
+    "Application.C01_Arrays.executor": "Run",
     "Application.C01_ArraysIntro.executor": "Run",
     "Application.C01_ArtikYil.executor": "Run",
     "Application.C01_Birthday.executor": "Run",
@@ -263,6 +280,7 @@
     "Application.C02_IfElse_DayOfWeek.executor": "Run",
     "Application.C02_If_Cont.executor": "Run",
     "Application.C02_Loop1.executor": "Run",
+    "Application.C02_Maps_Countries.executor": "Run",
     "Application.C02_MethodCalling.executor": "Run",
     "Application.C02_OutOfMemory.executor": "Run",
     "Application.C02_PrintVsPrintln.executor": "Run",
@@ -291,6 +309,7 @@
     "Application.C03_Google.executor": "Run",
     "Application.C03_If_Example.executor": "Run",
     "Application.C03_IsEmpty.executor": "Run",
+    "Application.C03_Map_Students.executor": "Run",
     "Application.C03_MethodsWithParameters.executor": "Run",
     "Application.C03_NameOfMonth.executor": "Run",
     "Application.C03_NarrowingCasting.executor": "Run",
@@ -323,6 +342,7 @@
     "Application.C04_RemoveInALoop.executor": "Run",
     "Application.C04_ReturnTheBiggest.executor": "Run",
     "Application.C04_Scanner.executor": "Run",
+    "Application.C04_SetExample.executor": "Run",
     "Application.C04_StartsWithEndsWith.executor": "Run",
     "Application.C04_SumTwo.executor": "Run",
     "Application.C04_TernaryExample1.executor": "Run",
@@ -367,6 +387,7 @@
     "Application.C06_IfElseTernary.executor": "Run",
     "Application.C06_If_ElseIf.executor": "Run",
     "Application.C06_LogicalOperatorsExample.executor": "Run",
+    "Application.C06_Maps_Task.executor": "Run",
     "Application.C06_PracticeWithReturn.executor": "Run",
     "Application.C06_RemoveDuplicate.executor": "Run",
     "Application.C06_ReverseNumber.executor": "Run",
@@ -433,6 +454,7 @@
     "Application.C10_BirthDay.executor": "Run",
     "Application.C10_HomeWork2.executor": "Run",
     "Application.C10_HomeWork_Arrays.executor": "Run",
+    "Application.C10_Java8_ForEachMethod.executor": "Run",
     "Application.C10_KarakterSayisi.executor": "Run",
     "Application.C10_LargestNumber.executor": "Run",
     "Application.C10_MissingOddNummer.executor": "Run",
@@ -446,6 +468,7 @@
     "Application.C11_HomeWork3.executor": "Run",
     "Application.C11_odev_dort.executor": "Run",
     "Application.C12_HomeWork4.executor": "Run",
+    "Application.C12_ListOfMap.executor": "Run",
     "Application.C12_PrecedenceOfLogicalOperators.executor": "Run",
     "Application.C12_odev_bes.executor": "Run",
     "Application.C13_HomeWork5.executor": "Run",
@@ -508,13 +531,13 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetExample">
-    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Collections_Queue_Set.Queue.PriorityQueueExample" />
+  <component name="RunManager" selected="Application.C12_ListOfMap">
+    <configuration name="C01_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C01_Arrays" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Collections_Queue_Set.Queue.*" />
+          <option name="PATTERN" value="day55_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -522,12 +545,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Collections_Queue_Set.Queue.QueueExample" />
+    <configuration name="C04_SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C04_SetExample" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Collections_Queue_Set.Queue.*" />
+          <option name="PATTERN" value="day55_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,12 +558,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Collections_Queue_Set.Set.SetExample" />
+    <configuration name="C06_Maps_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.C06_Maps_Task" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Collections_Queue_Set.Set.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -548,12 +571,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackReverseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections_List.Stack.StackReverseArrayList" />
+    <configuration name="C10_Java8_ForEachMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C10_Java8_ForEachMethod" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collections_List.Stack.*" />
+          <option name="PATTERN" value="day55_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -561,12 +584,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Collections_Queue_Set.Set.TreeSetExample" />
+    <configuration name="C12_ListOfMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C12_ListOfMap" />
       <module name="EU_B19_javaProgramming_SG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53_Collections_Queue_Set.Set.*" />
+          <option name="PATTERN" value="day55_CollectionReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,11 +599,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.PriorityQueueExample" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.StackReverseArrayList" />
+        <item itemvalue="Application.C12_ListOfMap" />
+        <item itemvalue="Application.C10_Java8_ForEachMethod" />
+        <item itemvalue="Application.C04_SetExample" />
+        <item itemvalue="Application.C01_Arrays" />
+        <item itemvalue="Application.C06_Maps_Task" />
       </list>
     </recent_temporary>
   </component>
@@ -969,7 +992,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744058169017</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="commit day 53">
+      <option name="closed" value="true" />
+      <created>1744140999408</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1744140999408</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -984,7 +1015,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit day 26" />
     <MESSAGE value="commit day 27" />
     <MESSAGE value="commit day 28" />
     <MESSAGE value="commit day 29" />
@@ -1009,7 +1039,8 @@
     <MESSAGE value="commit day 50" />
     <MESSAGE value="commit day 51" />
     <MESSAGE value="commit day 52" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 52" />
+    <MESSAGE value="commit day 53" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 53" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
