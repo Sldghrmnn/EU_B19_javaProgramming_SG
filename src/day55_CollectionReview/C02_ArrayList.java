@@ -67,5 +67,7 @@ public class C02_ArrayList {
         System.out.println("list2 = " + list2);
 
 
+
+
     }
 }
