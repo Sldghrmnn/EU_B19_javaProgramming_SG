@@ -4,41 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 54">
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/CanDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Firm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/FirmApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Volunteer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/Armut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/Elma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/MakineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/Portakal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day56_OOP_Review01/Interface/Tagabale.java" afterDir="false" />
+    <list default="true" id="d26f4d9e-8fe5-4920-bc6c-8c2960c05586" name="Changes" comment="commit day 55">
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/ClassRelationShip/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/ClassRelationShip/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/ClassRelationShip/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/ClassRelationShip/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/FileOps/FileReadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/NeutralNetwork/GecmeNotuHesapla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/C01_MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/RiverFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/SeaFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/TestAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C02_Maps_Countries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C02_Maps_Countries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C03_Map_Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C03_Map_Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C04_Maps_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C04_Maps_Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C05_Maps_Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/C05_Maps_Loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day54_Maps/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C01_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C02_ArrayList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C02_ArrayList$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C02_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C02_ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C03_SetPractice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C03_SetPractice$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C03_SetPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C03_SetPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C04_SetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C04_SetExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C05_Maps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C05_Maps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C06_MapMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C06_MapMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C10_Java8_ForEachMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C10_Java8_ForEachMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C11_RemoveIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C11_RemoveIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C12_ListOfMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EU_B19_javaProgramming_SG/day55_CollectionReview/C12_ListOfMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day55_CollectionReview/C02_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day55_CollectionReview/C02_ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,6 +219,8 @@
     <setting file="file://$PROJECT_DIR$/src/day55_CollectionReview/C07_Iterator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day55_CollectionReview/C08_Map_EntrySet.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/day55_CollectionReview/C10_Java8_ForEachMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day56_OOP_Review01/Fabrika/FirmApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/day57_OOP_Review02/Polymorphism/TestAnimal.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -520,6 +501,7 @@
     "Application.StackReverseArrayList.executor": "Run",
     "Application.StudentTest.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.TestAnimal.executor": "Run",
     "Application.TestClass.executor": "Run",
     "Application.ThreeDimensionalArray.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
@@ -544,20 +526,7 @@
       <recent name="day37_Constructor_PassingObjects01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MakineTest">
-    <configuration name="C04_SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C04_SetExample" />
-      <module name="EU_B19_javaProgramming_SG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day55_CollectionReview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestAnimal">
     <configuration name="C10_Java8_ForEachMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day55_CollectionReview.C10_Java8_ForEachMethod" />
       <module name="EU_B19_javaProgramming_SG" />
@@ -610,13 +579,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day57_OOP_Review02.Polymorphism.TestAnimal" />
+      <module name="EU_B19_javaProgramming_SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day57_OOP_Review02.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAnimal" />
         <item itemvalue="Application.MakineTest" />
         <item itemvalue="Application.FirmApplication" />
         <item itemvalue="Application.C12_ListOfMap" />
         <item itemvalue="Application.C10_Java8_ForEachMethod" />
-        <item itemvalue="Application.C04_SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -628,14 +610,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735841326106</updated>
-    </task>
-    <task id="LOCAL-00001" summary="ilk commit">
-      <option name="closed" value="true" />
-      <created>1737636870830</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1737636870830</updated>
     </task>
     <task id="LOCAL-00002" summary="bugunki commit">
       <option name="closed" value="true" />
@@ -1021,7 +995,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744316910030</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="commit day 55">
+      <option name="closed" value="true" />
+      <created>1745352718574</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1745352718574</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1036,7 +1018,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit day 28" />
     <MESSAGE value="commit day 29" />
     <MESSAGE value="commit day 30" />
     <MESSAGE value="commit day 32" />
@@ -1061,7 +1042,8 @@
     <MESSAGE value="commit day 52" />
     <MESSAGE value="commit day 53" />
     <MESSAGE value="commit day 54" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit day 54" />
+    <MESSAGE value="commit day 55" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit day 55" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
