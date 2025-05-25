@@ -19,18 +19,18 @@ public class FileReadWrite {
           try {
               printWriter = new PrintWriter(new FileOutputStream(dosya,true));
 
-           //   printWriter.println("1.satir bilgileri");
-           //   printWriter.println("2.satir bilgileri");
-          //    printWriter.println("3.satir bilgileri");
-          //    printWriter.println("4.satir bilgileri");
+             printWriter.println("1.satir bilgileri");
+             printWriter.println("2.satir bilgileri");
+             printWriter.println("3.satir bilgileri");
+             printWriter.println("4.satir bilgileri");
 
               scanner = new Scanner(System.in);
-           // System.out.println("Dosyaya yazdirmak istediklerini yazabilirsin");
-           //   String text = scanner.nextLine();
+            System.out.println("Dosyaya yazdirmak istediklerini yazabilirsin");
+             String text = scanner.nextLine();
 
-           //   printWriter.println(text);
+             printWriter.println(text);
 
-              Driver driver = new Driver("Elif Seven","B");
+              Driver driver = new Driver("Selda Gehrmann","B");
 
               String name = driver.getName();
               String licenceClass = driver.getLicenceClass();
